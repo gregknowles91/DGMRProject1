@@ -1,0 +1,1205 @@
+State,Agency Name,Latitude,Longitude,ORI,City,Population,Poverty,Poverty Rate
+AK,Anchorage Police Department,61.17425,-149.284329,AK0010100,Anchorage,292545.0,26182.0,8.95
+AK,Fairbanks Police Department,64.83945,-147.71942,AK0010200,Fairbanks,33018.0,2769.0,8.39
+AK,Juneau Police Department,58.356556,-134.50731,AK0010300,Juneau,32240.0,2293.0,7.11
+AK,Wasilla Police Department,62.182174,-149.407974,AK0015600,Wasilla,9098.0,1364.0,14.99
+AK,Sitka Police Department,57.052124,-135.33418,AK0010900,Sitka,8518.0,573.0,6.73
+AK,Ketchikan Police Department,55.449938,-131.106685,AK0010400,Ketchikan,8150.0,981.0,12.04
+AK,Kenai Police Department,60.559402,-151.2507,AK0012300,Kenai,7452.0,1042.0,13.98
+AK,Bethel Police Department,60.928916,-160.15335,AK0011300,Bethel,6273.0,803.0,12.8
+AK,Palmer Police Department,61.602676,-149.11183,AK0011700,Palmer,5978.0,674.0,11.27
+AK,Kodiak Police Department,57.8049,-152.37332,AK0010500,Kodiak,5682.0,505.0,8.89
+AK,Homer Police Department,59.64873,-151.52992,AK0012200,Homer,5531.0,695.0,12.57
+AK,Soldotna Police Department,60.481678,-151.07265,AK0012000,Soldotna,4370.0,823.0,18.83
+AK,Unalaska Police Department,51.959447,178.338813,AK0013300,Unalaska,4339.0,280.0,6.45
+AK,Valdez Police Department,61.34984,-145.023141,AK0011200,Valdez,3966.0,173.0,4.36
+AK,Nome Police Department,64.783686,-164.188912,AK0010600,Nome,3685.0,249.0,6.76
+AK,Petersburg Police Department,55.415683,-132.875734,AK0010700,Petersburg,3259.0,150.0,4.6
+AK,Kotzebue Police Department,67.005066,-160.021086,AK0011600,Kotzebue,3199.0,465.0,14.54
+AK,North Pole Police Department,64.75503,-147.35081,AK0013200,North Pole,2825.0,147.0,5.2
+AK,Seward Police Department,60.366668,-152.322283,AK0010800,Seward,2614.0,219.0,8.38
+AK,Cordova Police Department,61.34984,-145.023141,AK0011400,Cordova,2588.0,42.0,1.62
+AK,Wrangell Police Department,56.279121,-132.040325,AK0011100,Wrangell,2162.0,258.0,11.93
+AK,Dillingham Police Department,59.824816,-158.602233,AK0013000,Dillingham,2133.0,232.0,10.88
+AK,Haines Police Department,59.098771,-135.576936,AK0012100,Haines,1571.0,92.0,5.86
+AK,Skagway Police Department,59.575097,-135.335418,AK0011000,Skagway,1217.0,64.0,5.26
+AK,Sand Point Police Department,55.245044,-161.997477,AK0015200,Sand Point,1164.0,122.0,10.48
+AL,Huntsville Police Department,34.764238,-86.55108,AL0470100,Huntsville,210081.0,29379.0,13.98
+AL,Birmingham Police Department,33.553444,-86.896536,AL0010200,Birmingham,202234.0,49752.0,24.6
+AL,Montgomery Police Department,32.20365,-86.203831,AL0030100,Montgomery,201022.0,41068.0,20.43
+AL,Mobile Police Department,30.673004,-88.09793,AL0020100,Mobile,187445.0,36496.0,19.47
+AL,Tuscaloosa Police Department,33.173267,-87.55792,AL0630100,Tuscaloosa,99252.0,20272.0,20.42
+AL,Hoover Police Department,33.38795,-86.80636,AL0011200,Hoover,91371.0,6041.0,6.61
+AL,Auburn Police Department,32.608086,-85.475136,AL0430100,Auburn,74637.0,17439.0,23.37
+AL,Dothan Police Department,31.225441,-85.3914,AL0380100,Dothan,70318.0,12622.0,17.95
+AL,Decatur Police Department,34.454484,-86.846402,AL0520100,Decatur,57303.0,8568.0,14.95
+AL,Madison Police Department,34.6994,-86.74227,AL0470200,Madison,55551.0,2745.0,4.94
+AL,Florence Police Department,34.904122,-87.650997,AL0410100,Florence,39709.0,7649.0,19.26
+AL,Vestavia Hills Police Department,33.553444,-86.896536,AL0010900,Vestavia Hills,38504.0,1475.0,3.83
+AL,Phenix City Police Department,32.46812,-85.00083,AL0570100,Phenix City,38216.0,9875.0,25.84
+AL,Prattville Police Department,32.459705,-86.47263,AL0040100,Prattville,37977.0,4623.0,12.17
+AL,Gadsden Police Department,34.047648,-86.034522,AL0310200,Gadsden,34317.0,9110.0,26.55
+AL,Alabaster Police Department,33.24704,-86.81563,AL0590400,Alabaster,33133.0,2188.0,6.6
+AL,Opelika Police Department,32.604064,-85.353048,AL0430200,Opelika,30810.0,5235.0,16.99
+AL,Northport Police Department,33.290202,-87.52286,AL0630200,Northport,30334.0,4001.0,13.19
+AL,Enterprise Police Department,31.402258,-85.989602,AL0190200,Enterprise,28242.0,4502.0,15.94
+AL,Daphne Police Department,30.599625,-87.898056,AL0050800,Daphne,27088.0,2276.0,8.4
+AL,Homewood Police Department,33.479603,-86.791016,AL0011000,Homewood,26206.0,1908.0,7.28
+AL,Bessemer Police Department,33.396152,-86.95345,AL0010100,Bessemer,26171.0,7397.0,28.26
+AL,Athens Police Department,34.803825,-86.95889,AL0440100,Athens,25213.0,3362.0,13.33
+AL,Trussville Police Department,33.553444,-86.896536,AL0012100,Trussville,25027.0,931.0,3.72
+AL,Pelham Police Department,33.262937,-86.678104,AL0590600,Pelham,24134.0,991.0,4.11
+AR,Little Rock Police Department,34.749084,-92.277565,AR0600200,Little Rock,201893.0,30881.0,15.3
+AR,Fayetteville Police Department,36.06085,-94.15727,AR0720100,Fayetteville,92070.0,18074.0,19.63
+AR,Fort Smith Police Department,35.38317,-94.4234,AR0660100,Fort Smith,89116.0,16650.0,18.68
+AR,Springdale Police Department,36.18645,-94.12982,AR0720200,Springdale,85887.0,12840.0,14.95
+AR,Jonesboro Police Department,35.838394,-90.70817,AR0160100,Jonesboro,77520.0,15173.0,19.57
+AR,Rogers Police Department,36.337825,-94.256187,AR0040200,Rogers,68340.0,6524.0,9.55
+AR,North Little Rock Police Department,34.77923,-92.26978,AR0600300,North Little Rock,64444.0,13890.0,21.55
+AR,Conway Police Department,35.08855,-92.43863,AR0230100,Conway,63746.0,10892.0,17.09
+AR,Bentonville Police Department,36.38833,-94.21991,AR0040100,Bentonville,52565.0,3691.0,7.02
+AR,Pine Bluff Police Department,34.221638,-92.00195,AR0350100,Pine Bluff,41964.0,9010.0,21.47
+AR,Hot Springs Police Department,34.578861,-93.146915,AR0260100,Hot Springs,38050.0,7456.0,19.6
+AR,Benton Police Department,34.56359,-92.585594,AR0630100,Benton,34746.0,3684.0,10.6
+AR,Sherwood Police Department,34.832664,-92.209816,AR0600400,Sherwood,32544.0,2507.0,7.7
+AR,Bella Vista Police Department,36.337825,-94.256187,AR0042100,Bella Vista,29818.0,977.0,3.28
+AR,Texarkana Police Department,33.421623,-94.04305,AR0460100,Texarkana,29492.0,6084.0,20.63
+AR,Jacksonville Police Department,34.867607,-92.12715,AR0600100,Jacksonville,29385.0,5443.0,18.52
+AR,Paragould Police Department,36.119922,-90.565241,AR0280100,Paragould,29327.0,5155.0,17.58
+AR,Russellville Police Department,35.28542,-93.13359,AR0580100,Russellville,29057.0,5451.0,18.76
+AR,Cabot Police Department,34.755114,-91.894132,AR0430200,Cabot,26411.0,2979.0,11.28
+AR,West Memphis Police Department,35.146515,-90.17703,AR0180100,West Memphis,24666.0,6117.0,24.8
+AR,Van Buren Police Department,35.438732,-94.348175,AR0170100,Van Buren,23213.0,4296.0,18.51
+AR,Searcy Police Department,35.254722,-91.753158,AR0730100,Searcy,23074.0,4162.0,18.04
+AR,Bryant Police Department,34.61423,-92.49969,AR0630200,Bryant,20399.0,992.0,4.86
+AR,Maumelle Police Department,34.773988,-92.316515,AR0601600,Maumelle,19070.0,1112.0,5.83
+AR,Centerton Police Department,36.337825,-94.256187,AR0041300,Centerton,17455.0,929.0,5.32
+AZ,Phoenix Police Department,33.44825,-112.0817,AZ0072300,Phoenix,1591119.0,241238.0,15.16
+AZ,Chandler Police Department,33.300625,-111.8382,AZ0070500,Chandler,272439.0,20397.0,7.49
+AZ,Gilbert Police Department,33.330627,-111.78834,AZ0071100,Gilbert,262249.0,14013.0,5.34
+AZ,Glendale Police Department,33.536736,-112.18246,AZ0071300,Glendale,245685.0,41884.0,17.05
+AZ,Scottsdale Police Department,33.5695,-111.88542,AZ0072500,Scottsdale,238685.0,15978.0,6.69
+AZ,Peoria Police Department,33.346541,-112.495534,AZ0072100,Peoria,187733.0,15740.0,8.38
+AZ,Tempe Police Department,33.346541,-112.495534,AZ0072900,Tempe,178862.0,30594.0,17.1
+AZ,Surprise Police Department,33.346541,-112.495534,AZ0072700,Surprise,141875.0,10580.0,7.46
+AZ,Yuma Police Department,32.700336,-114.62042,AZ0140500,Yuma,95154.0,15774.0,16.58
+AZ,Goodyear Police Department,33.490746,-112.362495,AZ0071500,Goodyear,93651.0,5701.0,6.09
+AZ,Buckeye Police Department,33.375275,-112.573135,AZ0070300,Buckeye,89711.0,6900.0,7.69
+AZ,Avondale Police Department,33.346541,-112.495534,AZ0070100,Avondale,88065.0,10165.0,11.54
+AZ,Flagstaff Police Department,35.188972,-111.64146,AZ0030100,Flagstaff,76228.0,11064.0,14.51
+AZ,Maricopa Police Department,32.919038,-111.367005,AZ0111700,Maricopa,57075.0,3896.0,6.83
+AZ,Lake Havasu City Police Department,34.47879,-114.31841,AZ0080400,Lake Havasu City,56510.0,6643.0,11.76
+AZ,Casa Grande Police Department,32.878384,-111.751495,AZ0110100,Casa Grande,53488.0,7506.0,14.03
+AZ,Marana Police Department,32.447636,-111.20846,AZ0100900,Marana,50834.0,2823.0,5.55
+AZ,Oro Valley Police Department,32.406918,-110.99574,AZ0100700,Oro Valley,46515.0,3122.0,6.71
+AZ,Prescott Valley Police Department,34.59638,-112.33222,AZ0131100,Prescott Valley,46014.0,5323.0,11.57
+AZ,Prescott Police Department,34.630044,-112.573745,AZ0130700,Prescott,45063.0,4856.0,10.78
+AZ,Sierra Vista Police Department,31.56594,-110.27322,AZ0020900,Sierra Vista,44944.0,4731.0,10.53
+AZ,Bullhead City Police Department,35.717705,-113.749689,AZ0080500,Bullhead City,41064.0,8144.0,19.83
+AZ,Apache Junction Police Department,33.422348,-111.543236,AZ0111300,Apache Junction,38311.0,4855.0,12.67
+AZ,El Mirage Police Department,33.346541,-112.495534,AZ0070700,El Mirage,35410.0,5138.0,14.51
+AZ,San Luis Police Department,32.773942,-113.910905,AZ0140800,San Luis,35289.0,8097.0,22.94
+CA,San Jose Police Department,37.220777,-121.690622,CA0431300,San Jose,1013337.0,77013.0,7.6
+CA,San Francisco Police Department,37.775047,-122.40381,CA0380100,San Francisco,865933.0,87874.0,10.15
+CA,Fresno Police Department,36.761006,-119.655019,CA0100500,Fresno,538678.0,121232.0,22.51
+CA,Sacramento Police Department,38.520615,-121.49856,CA0340400,Sacramento,518605.0,75670.0,14.59
+CA,Long Beach Police Department,34.196398,-118.261862,CA0194100,Long Beach,466565.0,70975.0,15.21
+CA,Oakland Police Department,37.79965,-122.27459,CA0010900,Oakland,437548.0,58518.0,13.37
+CA,Anaheim Police Department,33.675687,-117.777207,CA0300100,Anaheim,348204.0,44908.0,12.9
+CA,Stockton Police Department,37.935034,-121.272237,CA0390500,Stockton,317818.0,50877.0,16.01
+CA,Santa Ana Police Department,33.675687,-117.777207,CA0301900,Santa Ana,313818.0,37979.0,12.1
+CA,Irvine Police Department,33.675687,-117.777207,CA0302600,Irvine,297868.0,35443.0,11.9
+CA,Chula Vista Police Department,33.023604,-116.776117,CA0370200,Chula Vista,274818.0,24883.0,9.05
+CA,Fremont Police Department,37.553017,-121.97069,CA0010500,Fremont,231502.0,11235.0,4.85
+CA,Santa Clarita Police Department,34.06067,-118.167885,CA0191R0X,Santa Clarita,227182.0,18588.0,8.18
+CA,San Bernardino Police Department,34.85722,-116.181197,CA0361000,San Bernardino,220821.0,44022.0,19.94
+CA,Modesto Police Department,37.636703,-120.99575,CA0500200,Modesto,217728.0,27587.0,12.67
+CA,Fontana Police Department,34.102913,-117.432785,CA0360400,Fontana,208087.0,23841.0,11.46
+CA,Oxnard Police Department,34.200966,-119.181076,CA0560400,Oxnard,202981.0,21244.0,10.47
+CA,Huntington Beach Police Department,33.675687,-117.777207,CA0301000,Huntington Beach,198735.0,15515.0,7.81
+CA,Glendale Police Department,34.14695,-118.24886,CA0192500,Glendale,196512.0,27065.0,13.77
+CA,Santa Rosa Police Department,38.525026,-122.937605,CA0490500,Santa Rosa,179213.0,17335.0,9.67
+CA,Elk Grove Police Department,38.450011,-121.340441,CA0340H00,Elk Grove,175510.0,14759.0,8.41
+CA,Ontario Police Department,34.027554,-117.593216,CA0360700,Ontario,175223.0,22607.0,12.9
+CA,Oceanside Police Department,33.023604,-116.776117,CA0371000,Oceanside,174461.0,16404.0,9.4
+CA,Rancho Cucamonga Police Department,34.10287,-117.575584,CA0361600,Rancho Cucamonga,173946.0,12449.0,7.16
+CA,Garden Grove Police Department,33.675687,-117.777207,CA0300900,Garden Grove,172708.0,22837.0,13.22
+CO,Denver Police Department,39.737377,-104.99167,CODPD0000,Denver,706799.0,80620.0,11.41
+CO,Aurora Police Department,39.70955,-104.81493,CO0010100,Aurora,383496.0,38837.0,10.13
+CO,Fort Collins Police Department,40.58892,-105.08077,CO0350300,Fort Collins,166788.0,24796.0,14.87
+CO,Lakewood Police Department,39.708225,-105.08569,CO0300400,Lakewood,155608.0,14060.0,9.04
+CO,Thornton Police Department,39.868996,-104.984215,CO0010400,Thornton,140538.0,11486.0,8.17
+CO,Arvada Police Department,39.802036,-105.08734,CO0300100,Arvada,122903.0,7363.0,5.99
+CO,Westminster Police Department,39.86312,-105.050415,CO0010500,Westminster,115535.0,7638.0,6.61
+CO,Pueblo Police Department,38.268818,-104.6085,CO0510100,Pueblo,111424.0,22698.0,20.37
+CO,Centennial Police Department,39.644632,-104.331733,CO0031100,Centennial,107972.0,3532.0,3.27
+CO,Greeley Police Department,40.422905,-104.72735,CO0620200,Greeley,107014.0,15455.0,14.44
+CO,Boulder Police Department,40.018864,-105.24995,CO0070100,Boulder,104930.0,19647.0,18.72
+CO,Longmont Police Department,40.162106,-105.10189,CO0070400,Longmont,98789.0,8053.0,8.15
+CO,Loveland Police Department,40.402042,-105.08795,CO0350400,Loveland,75938.0,6017.0,7.92
+CO,Broomfield Police Department,39.921543,-105.07059,CO0640100,Broomfield,72697.0,3183.0,4.38
+CO,Castle Rock Police Department,39.37022,-104.85867,CO0180100,Castle Rock,71037.0,2548.0,3.59
+CO,Grand Junction Police Department,39.019492,-108.461837,CO0390100,Grand Junction,65067.0,8183.0,12.58
+CO,Commerce City Police Department,39.874325,-104.331872,CO0010300,Commerce City,61516.0,6009.0,9.77
+CO,Parker Police Department,39.326435,-104.926199,CO0180500,Parker,57311.0,1693.0,2.95
+CO,Littleton Police Department,39.616898,-105.01454,CO0030200,Littleton,45465.0,3328.0,7.32
+CO,Brighton Police Department,39.874325,-104.331872,CO0010200,Brighton,39895.0,2969.0,7.44
+CO,Northglenn Police Department,39.9079,-104.98737,CO0010600,Northglenn,37899.0,3185.0,8.4
+CO,Englewood Police Department,39.644632,-104.331733,CO0030100,Englewood,33500.0,2948.0,8.8
+CO,Wheat Ridge Police Department,39.758446,-105.07984,CO0300500,Wheat Ridge,32340.0,3875.0,11.98
+CO,Windsor Police Department,40.555794,-104.383649,CO0620600,Windsor,31972.0,1115.0,3.49
+CO,Lafayette Police Department,39.987686,-105.09051,CO0070300,Lafayette,30307.0,1319.0,4.35
+CT,Bridgeport Police Department,41.227399,-73.366523,CT0001500,Bridgeport,148529.0,33577.0,22.61
+CT,Stamford Police Department,41.060837,-73.53756,CT0013500,Stamford,134820.0,12534.0,9.3
+CT,New Haven Police Department,41.28382,-72.868744,CT0009300,New Haven,133874.0,30817.0,23.02
+CT,Waterbury Police Department,41.349717,-72.900204,CT0015100,Waterbury,113783.0,24247.0,21.31
+CT,Norwalk Police Department,41.096684,-73.42238,CT0010300,Norwalk,90821.0,8791.0,9.68
+CT,Danbury Police Department,41.40037,-73.45838,CT0003400,Danbury,86197.0,8752.0,10.15
+CT,New Britain Police Department,41.667534,-72.77737,CT0008900,New Britain,74022.0,14676.0,19.83
+CT,West Hartford Police Department,41.75906,-72.73901,CT0015500,West Hartford,64034.0,3964.0,6.19
+CT,Meriden Police Department,41.5185,-72.82707,CT0008000,Meriden,60790.0,8179.0,13.45
+CT,Bristol Police Department,41.670544,-72.94299,CT0001700,Bristol,60733.0,5352.0,8.81
+CT,West Haven Police Department,41.27384,-72.96431,CT0015600,West Haven,55518.0,6149.0,11.08
+CT,Hartford Police Department,41.806053,-72.732916,CT0006400,Hartford,50971.0,6599.0,12.95
+CT,East Hartford Police Department,41.78032,-72.611305,CT0004300,East Hartford,50971.0,6599.0,12.95
+CT,Milford Police Department,41.349717,-72.900204,CT0008400,Milford,50694.0,2055.0,4.05
+CT,Middletown Police Department,41.557114,-72.64751,CT0008300,Middletown,47164.0,4843.0,10.27
+CT,Shelton Police Department,41.320045,-73.11258,CT0012600,Shelton,40944.0,2421.0,5.91
+CT,Norwich Police Department,41.516167,-72.08029,CT0010400,Norwich,40020.0,4218.0,10.54
+CT,Manchester Police Department,41.783634,-72.51181,CT0007700,Manchester,36832.0,4994.0,13.56
+CT,Torrington Police Department,41.812046,-73.12125,CT0014300,Torrington,35447.0,4715.0,13.3
+CT,Naugatuck Police Department,41.504784,-73.054276,CT0008800,Naugatuck,31586.0,1529.0,4.84
+CT,Newington Police Department,41.697254,-72.729836,CT0009400,Newington,30493.0,2478.0,8.13
+CT,East Haven Police Department,41.29254,-72.86689,CT0004400,East Haven,28054.0,2266.0,8.08
+CT,New London Police Department,41.3566,-72.09597,CT0009500,New London,27585.0,5763.0,20.89
+CT,Wethersfield Police Department,41.72029,-72.667244,CT0015900,Wethersfield,27162.0,1463.0,5.39
+CT,North Haven Police Department,41.387096,-72.8615,CT0010100,North Haven,24217.0,1386.0,5.72
+DE,Wilmington Police Department,39.73873,-75.548965,DE0020600,Wilmington,70926.0,16362.0,23.07
+DE,Dover Police Department,39.097088,-75.502982,DE0010100,Dover,38940.0,7108.0,18.25
+DE,Newark Police Department,39.575915,-75.644132,DE0020500,Newark,31393.0,6342.0,20.2
+DE,Middletown Police Department,39.44838,-75.71802,DE0020200,Middletown,23001.0,1658.0,7.21
+DE,Smyrna Police Department,39.300205,-75.61435,DE0010300,Smyrna,12619.0,1702.0,13.49
+DE,Milford Police Department,38.91612,-75.42161,DE0030500,Milford,11249.0,1929.0,17.15
+DE,Seaford Police Department,38.65286,-75.61424,DE0030800,Seaford,7852.0,1215.0,15.47
+DE,Georgetown Police Department,38.694782,-75.3895,DE0031300,Georgetown,7079.0,1268.0,17.91
+DE,Millsboro Police Department,38.677511,-75.335495,DE0031500,Millsboro,6542.0,501.0,7.66
+DE,Elsmere Police Department,39.739624,-75.60179,DE0020700,Elsmere,6167.0,971.0,15.75
+DE,New Castle Police Department,39.575915,-75.644132,DE0020400,New Castle,5482.0,159.0,2.9
+DE,Laurel Police Department,38.677511,-75.335495,DE0030300,Laurel,3886.0,1512.0,38.91
+DE,Clayton Police Department,39.097088,-75.502982,DE0010600,Clayton,3845.0,342.0,8.89
+DE,Camden Police Department,39.11345,-75.54225,DE0010400,Camden,3786.0,157.0,4.15
+DE,Harrington Police Department,38.924095,-75.57957,DE0010200,Harrington,3730.0,785.0,21.05
+DE,Lewes Police Department,38.677511,-75.335495,DE0030400,Lewes,3257.0,218.0,6.69
+DE,Milton Police Department,38.77769,-75.31031,DE0030600,Milton,3224.0,361.0,11.2
+DE,Selbyville Police Department,38.677511,-75.335495,DE0031600,Selbyville,2806.0,158.0,5.63
+DE,Ocean View Police Department,38.677511,-75.335495,DE0031700,Ocean View,2556.0,316.0,12.36
+DE,Bridgeville Police Department,38.744175,-75.599144,DE0030100,Bridgeville,2499.0,315.0,12.61
+DE,Delmar Police Department,38.677511,-75.335495,DE0030200,Delmar,2241.0,319.0,14.23
+DE,Delaware City Police Department,39.57391,-75.59376,DE0020900,Delaware City,1885.0,262.0,13.9
+DE,Cheswold Police Department,39.097088,-75.502982,DE0012600,Cheswold,1705.0,297.0,17.42
+DE,Wyoming Police Department,39.118744,-75.55912,DE0013100,Wyoming,1636.0,162.0,9.9
+DE,Greenwood Police Department,38.677511,-75.335495,DE0031400,Greenwood,1459.0,127.0,8.7
+FL,Miami Police Department,25.7779,-80.197876,FL0130600,Miami,440807.0,90654.0,20.57
+FL,Tampa Police Department,27.947796,-82.45798,FL0290200,Tampa,380476.0,63481.0,16.68
+FL,Orlando Police Department,28.514435,-81.323295,FL0480400,Orlando,302968.0,46493.0,15.35
+FL,St. Petersburg Police Department,27.771997,-82.65182,FL0521400,St. Petersburg,258245.0,31345.0,12.14
+FL,Hialeah Police Department,25.873285,-80.26692,FL0130400,Hialeah,224362.0,41636.0,18.56
+FL,Port St. Lucie Police Department,27.273928,-80.34833,FL0560200,Port St. Lucie,202177.0,16731.0,8.28
+FL,Tallahassee Police Department,30.457855,-84.27986,FL0370300,Tallahassee,195057.0,44415.0,22.77
+FL,Cape Coral Police Department,26.551527,-81.892457,FL0360200,Cape Coral,193003.0,18990.0,9.84
+FL,Fort Lauderdale Police Department,26.121895,-80.15851,FL0060300,Fort Lauderdale,182247.0,27702.0,15.2
+FL,Pembroke Pines Police Department,26.00853,-80.27197,FL0060800,Pembroke Pines,170346.0,17914.0,10.52
+FL,Hollywood Police Department,26.010834,-80.17272,FL0060500,Hollywood,152597.0,18711.0,12.26
+FL,Gainesville Police Department,29.67574,-82.357221,FL0010100,Gainesville,138741.0,36080.0,26.01
+FL,Miramar Police Department,26.193535,-80.476683,FL0062200,Miramar,134306.0,11722.0,8.73
+FL,Coral Springs Police Department,26.264788,-80.26626,FL0062800,Coral Springs,133693.0,11579.0,8.66
+FL,Palm Bay Police Department,27.999031,-80.68493,FL0051200,Palm Bay,118709.0,15517.0,13.07
+FL,Clearwater Police Department,27.96386,-82.797905,FL0520300,Clearwater,116616.0,17869.0,15.32
+FL,Miami Gardens Police Department,25.927366,-80.22583,FL0139700,Miami Gardens,111706.0,17667.0,15.82
+FL,Pompano Beach Police Department,26.193535,-80.476683,FL0060700,Pompano Beach,111423.0,16832.0,15.11
+FL,Lakeland Police Department,28.045244,-81.95414,FL0531200,Lakeland,110401.0,15955.0,14.45
+FL,Davie Police Department,26.103151,-80.28184,FL0061200,Davie,104782.0,12239.0,11.68
+FL,Sunrise Police Department,26.131817,-80.33324,FL0062700,Sunrise,96220.0,10334.0,10.74
+FL,Boca Raton Police Department,26.35139,-80.08977,FL0500200,Boca Raton,95347.0,8437.0,8.85
+FL,Deerfield Beach Police Department,26.193535,-80.476683,FL0060200,Deerfield Beach,86062.0,13183.0,15.32
+FL,Fort Myers Police Department,26.639778,-81.868385,FL0360100,Fort Myers,84694.0,13144.0,15.52
+FL,Melbourne Police Department,28.298304,-80.700333,FL0050700,Melbourne,83500.0,11085.0,13.28
+GA,Atlanta Police Department,33.74819,-84.39517,GAAPD0000,Atlanta,492204.0,84756.0,17.22
+GA,Columbus Police Department,32.464756,-84.98599,GA1060100,Columbus,204366.0,38670.0,18.92
+GA,Athens-Clarke County Police Department,33.94101,-83.32669,GA0290100,Athens-Clarke County,126118.0,30535.0,24.21
+GA,Sandy Springs Police Department,33.925224,-84.359856,GA0605600,Sandy Springs,106605.0,6880.0,6.45
+GA,Roswell Police Department,34.021626,-84.35973,GA0600500,Roswell,92688.0,5600.0,6.04
+GA,Johns Creek Police Department,33.790034,-84.468182,GA0605800,Johns Creek,82068.0,2976.0,3.63
+GA,Warner Robins Police Department,32.458381,-83.662856,GA0760200,Warner Robins,79589.0,9831.0,12.35
+GA,Albany Police Department,31.532588,-84.20904,GA0470100,Albany,70748.0,19121.0,27.03
+GA,Alpharetta Police Department,33.790034,-84.468182,GA0600400,Alpharetta,65187.0,2771.0,4.25
+GA,Marietta Police Department,33.95526,-84.54541,GA0330300,Marietta,60962.0,7459.0,12.24
+GA,Smyrna Police Department,33.888607,-84.51593,GA0330400,Smyrna,55460.0,4680.0,8.44
+GA,Valdosta Police Department,30.826075,-83.278145,GA0920100,Valdosta,55417.0,16548.0,29.86
+GA,Dunwoody  Police Department,33.770661,-84.226343,GA0447100,Dunwoody,51103.0,3137.0,6.14
+GA,Gainesville Police Department,34.29682,-83.82664,GA0690100,Gainesville,41730.0,7842.0,18.79
+GA,East Point Police Department,33.681007,-84.44159,GA0600200,East Point,37895.0,8711.0,22.99
+GA,Peachtree City Police Department,33.412717,-84.493941,GA0560200,Peachtree City,37867.0,2537.0,6.7
+GA,Rome Police Department,34.169235,-85.21126,GA0570200,Rome,37509.0,8920.0,23.78
+GA,Hinesville Police Department,31.846628,-81.59546,GA0890100,Hinesville,34733.0,6534.0,18.81
+GA,Douglasville Police Department,33.699317,-84.765944,GA0480100,Douglasville,34410.0,3828.0,11.12
+GA,Dalton Police Department,34.773823,-84.97399,GA1550100,Dalton,34255.0,6542.0,19.1
+GA,Woodstock Police Department,34.08742,-84.47999,GA0280500,Woodstock,33857.0,1869.0,5.52
+GA,Kennesaw Police Department,33.93994,-84.574166,GA0330600,Kennesaw,33036.0,4450.0,13.47
+GA,Statesboro Police Department,32.445255,-81.7862,GA0160100,Statesboro,32400.0,8916.0,27.52
+GA,Canton Police Department,34.23541,-84.490005,GA0280100,Canton,32342.0,4839.0,14.96
+GA,Duluth Police Department,33.994205,-84.15061,GA0670500,Duluth,31506.0,2820.0,8.95
+HI,Honolulu Police Department,21.304317,-157.85077,HI0020000,Honolulu,50076.0,1643.0,3.28
+IA,Des Moines Police Department,41.684281,-93.56972,IA0770300,Des Moines,213545.0,31926.0,14.95
+IA,Cedar Rapids Police Department,41.975834,-91.66754,IA0570100,Cedar Rapids,136512.0,14967.0,10.96
+IA,Davenport Police Department,41.523746,-90.57706,IA0820200,Davenport,101725.0,15593.0,15.33
+IA,Iowa City Police Department,41.660053,-91.52996,IA0520200,Iowa City,74240.0,18379.0,24.76
+IA,Waterloo Police Department,42.499016,-92.33279,IA0070300,Waterloo,67695.0,10990.0,16.23
+IA,West Des Moines Police Department,41.684281,-93.56972,IA0770500,West Des Moines,67640.0,4473.0,6.61
+IA,Ankeny Police Department,41.684281,-93.56972,IA0770100,Ankeny,66346.0,2764.0,4.17
+IA,Ames Police Department,42.037538,-93.466093,IA0850100,Ames,65522.0,14367.0,21.93
+IA,Council Bluffs Police Department,41.340184,-95.544905,IA0780100,Council Bluffs,62617.0,7687.0,12.28
+IA,Dubuque Police Department,42.500935,-90.66581,IA0310100,Dubuque,59379.0,6929.0,11.67
+IA,Urbandale Police Department,41.628784,-93.73656,IA0770400,Urbandale,45037.0,2615.0,5.81
+IA,Marion Police Department,42.035267,-91.57182,IA0570200,Marion,41023.0,2899.0,7.07
+IA,Cedar Falls Police Department,42.53667,-92.4481,IA0070100,Cedar Falls,40500.0,6328.0,15.62
+IA,Bettendorf Police Department,41.52522,-90.50928,IA0820100,Bettendorf,38631.0,2766.0,7.16
+IA,Marshalltown Police Department,42.04948,-92.91297,IA0640100,Marshalltown,27570.0,3840.0,13.93
+IA,Mason City Police Department,43.15112,-93.19622,IA0170200,Mason City,27385.0,2912.0,10.63
+IA,Ottumwa Police Department,41.016605,-92.40911,IA0900100,Ottumwa,25379.0,3942.0,15.53
+IA,Fort Dodge Police Department,42.50398,-94.18832,IA0940100,Fort Dodge,24826.0,4074.0,16.41
+IA,Clinton Police Department,41.898073,-90.534243,IA0230100,Clinton,24651.0,4274.0,17.34
+IA,Burlington Police Department,40.811058,-91.10232,IA0290100,Burlington,24160.0,4277.0,17.7
+IA,Muscatine Police Department,41.42498,-91.04574,IA0700100,Muscatine,23759.0,3660.0,15.4
+IA,Waukee Police Department,41.685321,-94.040707,IA0250400,Waukee,23441.0,1122.0,4.79
+IA,Johnston Police Department,41.684281,-93.56972,IA0770700,Johnston,23418.0,2263.0,9.66
+IA,Coralville Police Department,41.668736,-91.588812,IA0520100,Coralville,22226.0,2033.0,9.15
+IA,North Liberty Police Department,41.668736,-91.588812,IA0520500,North Liberty,19976.0,902.0,4.52
+ID,Boise Police Department,43.60671,-116.26885,ID0010100,Boise,231537.0,26411.0,11.41
+ID,Meridian Police Department,43.451477,-116.244376,ID0010300,Meridian,115227.0,7827.0,6.79
+ID,Nampa Police Department,43.623051,-116.708527,ID0140200,Nampa,98881.0,12483.0,12.62
+ID,Idaho Falls Police Department,43.395171,-111.621878,ID0100200,Idaho Falls,64399.0,7980.0,12.39
+ID,Caldwell Police Department,43.667896,-116.69103,ID0140100,Caldwell,58872.0,6978.0,11.85
+ID,Pocatello Police Department,42.692938,-112.228986,ID0030200,Pocatello,55865.0,7748.0,13.87
+ID,Coeur d'Alene Police Department,47.715008,-116.80246,ID0280100,Coeur d'Alene,53189.0,5409.0,10.17
+ID,Twin Falls Police Department,42.352309,-114.665639,ID0420200,Twin Falls,51223.0,6860.0,13.39
+ID,Post Falls Police Department,47.714752,-116.92871,ID0280200,Post Falls,38162.0,4533.0,11.88
+ID,Lewiston Police Department,46.4178,-117.01638,ID0350200,Lewiston,33964.0,5018.0,14.77
+ID,Rexburg Police Department,43.789709,-111.65655,ID0330100,Rexburg,33684.0,11131.0,33.05
+ID,Moscow Police Department,46.73173,-117.00105,ID0290500,Moscow,25336.0,4707.0,18.58
+ID,Mountain Home Police Department,43.394677,-115.471204,ID0200200,Mountain Home,15863.0,2349.0,14.81
+ID,Chubbuck Police Department,42.692938,-112.228986,ID0030100,Chubbuck,15445.0,1328.0,8.6
+ID,Jerome Police Department,42.723957,-114.51839,ID0270100,Jerome,12182.0,2192.0,17.99
+ID,Blackfoot Police Department,43.216357,-112.399206,ID0060200,Blackfoot,12106.0,1625.0,13.42
+ID,Garden City Police Department,43.643784,-116.26528,ID0010200,Garden City,12056.0,1362.0,11.3
+ID,Rathdrum Police Department,47.810562,-116.89777,ID0280500,Rathdrum,9099.0,581.0,6.39
+ID,Hailey Police Department,43.51983,-114.31555,ID0070300,Hailey,9001.0,1085.0,12.05
+ID,Sandpoint Police Department,48.272057,-116.56282,ID0090200,Sandpoint,8448.0,1146.0,13.57
+ID,Payette Police Department,44.0748,-116.9365,ID0380300,Payette,7999.0,1023.0,12.79
+ID,Emmett Police Department,44.061473,-116.398784,ID0230100,Emmett,7408.0,1115.0,15.05
+ID,Rupert Police Department,42.856937,-113.64001,ID0340100,Rupert,5994.0,1694.0,28.26
+ID,Fruitland Police Department,44.00274,-116.748655,ID0380100,Fruitland,5903.0,725.0,12.28
+ID,Weiser Police Department,44.24683,-116.965866,ID0440100,Weiser,5578.0,912.0,16.35
+IL,Chicago Police Department,41.830837,-87.62327,ILCPD0000,Chicago,2742119.0,459412.0,16.75
+IL,Aurora Police Department,41.78237,-88.28631,IL0450100,Aurora,183447.0,18697.0,10.19
+IL,Joliet Police Department,41.523937,-88.085075,IL0990700,Joliet,150323.0,15835.0,10.53
+IL,Naperville Police Department,41.766403,-88.17647,IL0221400,Naperville,149013.0,5818.0,3.9
+IL,Rockford Police Department,42.272087,-89.09654,IL1010400,Rockford,148942.0,31966.0,21.46
+IL,Springfield Police Department,39.799377,-89.645,IL0840200,Springfield,114672.0,20549.0,17.92
+IL,Elgin Police Department,42.039604,-88.28398,IL0450600,Elgin,114156.0,10689.0,9.36
+IL,Waukegan Police Department,42.36095,-87.83479,IL0492100,Waukegan,89751.0,13270.0,14.79
+IL,Champaign Police Department,40.116344,-88.23911,IL0100100,Champaign,88343.0,18920.0,21.42
+IL,Cicero Police Department,41.844807,-87.74826,IL0162100,Cicero,84905.0,11418.0,13.45
+IL,Evanston Police Department,42.044216,-87.68356,IL0163200,Evanston,78454.0,8473.0,10.8
+IL,Bloomington Police Department,40.494559,-88.844539,IL0570100,Bloomington,78372.0,10269.0,13.1
+IL,Schaumburg Police Department,42.026466,-88.102936,IL0162A00,Schaumburg,78053.0,4649.0,5.96
+IL,Arlington Heights Police Department,42.081783,-87.98046,IL0160200,Arlington Heights,77283.0,3615.0,4.68
+IL,Bolingbrook Police Department,41.698147,-88.081726,IL0990200,Bolingbrook,73807.0,5807.0,7.87
+IL,Decatur Police Department,39.83924,-88.95295,IL0580200,Decatur,71309.0,13404.0,18.8
+IL,Palatine Police Department,42.114235,-88.09946,IL0168400,Palatine,67754.0,7493.0,11.06
+IL,Skokie Police Department,42.01612,-87.76066,IL0164A00,Skokie,67444.0,6110.0,9.06
+IL,Des Plaines Police Department,42.042133,-87.888695,IL0162500,Des Plaines,60413.0,4763.0,7.88
+IL,Orland Park Police Department,41.894294,-87.645455,IL0168300,Orland Park,58622.0,2897.0,4.94
+IL,Oak Lawn Police Department,41.721596,-87.75278,IL0168000,Oak Lawn,58032.0,5809.0,10.01
+IL,Berwyn Police Department,41.836037,-87.787445,IL0160900,Berwyn,56960.0,6570.0,11.53
+IL,Mount Prospect Police Department,42.062946,-87.93516,IL0167200,Mount Prospect,56510.0,2618.0,4.63
+IL,Tinley Park Police Department,41.558353,-87.80897,IL0165M00,Tinley Park,55988.0,3000.0,5.36
+IL,Oak Park Police Department,41.894294,-87.645455,IL0168100,Oak Park,54100.0,3587.0,6.63
+IN,Indianapolis Police Department,39.76786,-86.15264,INIPD0000,Indianapolis,880104.0,141489.0,16.08
+IN,Fort Wayne Police Department,41.091855,-85.07223,IN0020100,Fort Wayne,262676.0,39836.0,15.17
+IN,Evansville Police Department,37.97335,-87.568,IN0820100,Evansville,117184.0,22459.0,19.17
+IN,South Bend Police Department,41.665035,-86.259445,IN0710200,South Bend,102786.0,20996.0,20.43
+IN,Carmel Police Department,40.04987,-86.020586,IN0290100,Carmel,98137.0,2967.0,3.02
+IN,Fishers Police Department,39.958286,-86.01655,IN0290700,Fishers,97154.0,2746.0,2.83
+IN,Bloomington Police Department,39.164577,-86.53207,IN0530100,Bloomington,80064.0,20923.0,26.13
+IN,Hammond Police Department,41.614895,-87.51721,IN0450700,Hammond,77491.0,16194.0,20.9
+IN,Lafayette Police Department,40.41753,-86.89064,IN0790100,Lafayette,70928.0,11728.0,16.54
+IN,Gary Police Department,41.601505,-87.34981,IN0450500,Gary,69739.0,22142.0,31.75
+IN,Noblesville Police Department,40.044323,-86.013504,IN0290200,Noblesville,68885.0,3551.0,5.15
+IN,Muncie Police Department,40.195507,-85.38763,IN0180100,Muncie,65571.0,17866.0,27.25
+IN,Greenwood Police Department,39.61119,-86.103516,IN0410300,Greenwood,62914.0,4701.0,7.47
+IN,Kokomo Police Department,40.486435,-86.12997,IN0340100,Kokomo,59263.0,8424.0,14.21
+IN,Anderson Police Department,40.105686,-85.67817,IN0480200,Anderson,54459.0,11502.0,21.12
+IN,Elkhart Police Department,41.684654,-85.96748,IN0200100,Elkhart,53838.0,10401.0,19.32
+IN,Mishawaka Police Department,41.66217,-86.17931,IN0710100,Mishawaka,50823.0,8630.0,16.98
+IN,Columbus Police Department,39.199764,-85.92089,IN0030100,Columbus,50718.0,5837.0,11.51
+IN,Jeffersonville Police Department,38.476217,-85.711122,IN0100300,Jeffersonville,49178.0,5540.0,11.27
+IN,Lawrence Police Department,39.782976,-86.135794,IN0490200,Lawrence,49048.0,5232.0,10.67
+IN,Westfield Police Department,40.04237,-86.154106,IN0290400,Westfield,45695.0,2113.0,4.62
+IN,West Lafayette Police Department,40.410015,-86.85338,IN0790200,West Lafayette,44515.0,11108.0,24.95
+IN,Portage Police Department,41.50992,-87.071309,IN0640200,Portage,37540.0,5137.0,13.68
+IN,New Albany Police Department,38.284374,-85.824684,IN0220100,New Albany,37350.0,6294.0,16.85
+IN,Merrillville Police Department,41.4781,-87.336006,IN0451400,Merrillville,36196.0,4684.0,12.94
+KS,Wichita Police Department,37.692635,-97.33823,KS0870300,Wichita,394574.0,59249.0,15.02
+KS,Overland Park Police Department,38.903667,-94.6714,KS0460600,Overland Park,195249.0,7914.0,4.05
+KS,Park City Police Department,37.681045,-97.461054,KS0871600,Park City,195249.0,7914.0,4.05
+KS,Olathe Police Department,38.86768,-94.82552,KS0460500,Olathe,140339.0,8344.0,5.95
+KS,Topeka Police Department,39.055595,-95.6716,KS0890100,Topeka,126802.0,18704.0,14.75
+KS,Lawrence Police Department,38.963764,-95.23475,KS0230100,Lawrence,94745.0,16710.0,17.64
+KS,Shawnee Police Department,39.02212,-94.77992,KS0460900,Shawnee,67021.0,3926.0,5.86
+KS,Lenexa Police Department,38.971035,-94.73084,KS0461000,Lenexa,56755.0,2872.0,5.06
+KS,Salina Police Department,38.836975,-97.61358,KS0850100,Salina,46896.0,5504.0,11.74
+KS,Hutchinson Police Department,38.053444,-97.93571,KS0780100,Hutchinson,40202.0,4923.0,12.25
+KS,Leavenworth Police Department,39.314144,-94.91131,KS0520100,Leavenworth,37216.0,4458.0,11.98
+KS,Leawood Police Department,38.954098,-94.615425,KS0460200,Leawood,33748.0,676.0,2.0
+KS,Garden City Police Department,38.049855,-100.739929,KS0280100,Garden City,28022.0,3757.0,13.41
+KS,Dodge City Police Department,37.688365,-99.884734,KS0290100,Dodge City,27899.0,3814.0,13.67
+KS,Derby Police Department,37.545734,-97.27021,KS0870100,Derby,25365.0,1775.0,7.0
+KS,Emporia Police Department,38.455498,-96.161589,KS0560100,Emporia,24220.0,4126.0,17.04
+KS,Gardner Police Department,38.883907,-94.82233,KS0461200,Gardner,23065.0,1342.0,5.82
+KS,Junction City Police Department,39.031418,-96.82725,KS0310100,Junction City,23033.0,3766.0,16.35
+KS,Prairie Village Police Department,38.989285,-94.6304,KS0460700,Prairie Village,22812.0,1005.0,4.41
+KS,Hays Police Department,38.872814,-99.33015,KS0260100,Hays,20870.0,3490.0,16.72
+KS,Pittsburg Police Department,37.505628,-94.853941,KS0190100,Pittsburg,20667.0,5558.0,26.89
+KS,Liberal Police Department,37.180585,-100.854741,KS0880100,Liberal,19340.0,2622.0,13.56
+KS,Newton Police Department,38.051147,-97.34464,KS0400100,Newton,18576.0,1945.0,10.47
+KS,Andover Police Department,37.773649,-96.83884,KS0080500,Andover,15162.0,611.0,4.03
+KS,Great Bend Police Department,38.36352,-98.76655,KS0050200,Great Bend,14864.0,2444.0,16.44
+KY,Lexington Police Department,38.045673,-84.496284,KY0340200,Lexington,321354.0,48501.0,15.09
+KY,Bowling Green Police Department,36.995796,-86.44383,KY1140100,Bowling Green,71422.0,16449.0,23.03
+KY,Owensboro Police Department,37.731671,-87.087139,KY0300100,Owensboro,59839.0,11654.0,19.48
+KY,Covington Police Department,38.930477,-84.533492,KY0590100,Covington,40930.0,9556.0,23.35
+KY,Georgetown Police Department,38.289882,-84.579376,KY1050100,Georgetown,36281.0,4271.0,11.77
+KY,Richmond Police Department,37.723528,-84.277008,KY0760200,Richmond,34662.0,7339.0,21.17
+KY,Florence Police Department,38.996952,-84.6432,KY0080200,Florence,31699.0,2401.0,7.57
+KY,Elizabethtown Police Department,37.687885,-85.86853,KY0470100,Elizabethtown,31066.0,3594.0,11.57
+KY,Nicholasville Police Department,37.885975,-84.570656,KY0570100,Nicholasville,31066.0,4564.0,14.69
+KY,Hopkinsville Police Department,36.870354,-87.486595,KY0240100,Hopkinsville,30771.0,5915.0,19.22
+KY,Frankfort Police Department,38.234919,-84.868786,KY0370100,Frankfort,28479.0,4416.0,15.51
+KY,Independence Police Department,38.933533,-84.544464,KY0591900,Independence,28256.0,2182.0,7.72
+KY,Henderson Police Department,37.792542,-87.572577,KY0510100,Henderson,28201.0,5415.0,19.2
+KY,Paducah Police Department,37.053683,-88.712366,KY0730100,Paducah,26248.0,5699.0,21.71
+KY,Radcliff Police Department,37.838306,-85.94496,KY0470200,Radcliff,22839.0,4077.0,17.85
+KY,Ashland Police Department,38.360004,-82.681406,KY0100100,Ashland,21695.0,4901.0,22.59
+KY,Madisonville Police Department,37.32837,-87.50038,KY0540100,Madisonville,19533.0,4255.0,21.78
+KY,Erlanger Police Department,39.023567,-84.60823,KY0590300,Erlanger,19506.0,2052.0,10.52
+KY,Winchester Police Department,37.970133,-84.144974,KY0250100,Winchester,18993.0,3659.0,19.26
+KY,Mount Washington Police Department,37.969572,-85.703036,KY0150300,Mount Washington,17723.0,1269.0,7.16
+KY,St. Matthews Police Department,38.249447,-85.65038,KY0560300,St. Matthews,17588.0,1381.0,7.85
+KY,Murray Police Department,36.60865,-88.302155,KY0180100,Murray,17241.0,3105.0,18.01
+KY,Fort Thomas Police Department,39.080936,-84.449165,KY0190400,Fort Thomas,17241.0,1001.0,5.81
+KY,Danville Police Department,37.618104,-84.868352,KY0110100,Danville,17164.0,2638.0,15.37
+KY,Shelbyville Police Department,38.21079,-85.212906,KY1060100,Shelbyville,16932.0,1642.0,9.7
+LA,New Orleans Police Department,29.960224,-90.09213,LANPD0000,New Orleans,383974.0,88675.0,23.09
+LA,Baton Rouge Police Department,30.544002,-91.093174,LA0170200,Baton Rouge,225539.0,53100.0,23.54
+LA,Shreveport Police Department,32.501125,-93.754555,LA0090100,Shreveport,189374.0,45297.0,23.92
+LA,Lafayette Police Department,30.206507,-92.06417,LA0280300,Lafayette,122469.0,23039.0,18.81
+LA,Lake Charles Police Department,30.229559,-93.358015,LA0100200,Lake Charles,83444.0,16881.0,20.23
+LA,Kenner Police Department,29.677888,-90.100494,LA0260300,Kenner,66411.0,10251.0,15.44
+LA,Bossier City Police Department,32.696225,-93.618086,LA0080100,Bossier City,63168.0,12259.0,19.41
+LA,Monroe Police Department,32.477664,-92.154848,LA0370100,Monroe,48105.0,15676.0,32.59
+LA,Alexandria Police Department,31.193204,-92.535953,LA0400100,Alexandria,45736.0,11997.0,26.23
+LA,Houma Police Department,29.333258,-90.844212,LA0550100,Houma,33461.0,6480.0,19.37
+LA,New Iberia Police Department,30.00271,-91.81355,LA0230300,New Iberia,28844.0,7910.0,27.42
+LA,Slidell Police Department,30.274563,-89.78045,LA0520200,Slidell,28537.0,3962.0,13.88
+LA,Ruston Police Department,32.601823,-92.662303,LA0310200,Ruston,22286.0,7266.0,32.6
+LA,Hammond Police Department,30.621581,-90.406633,LA0530100,Hammond,19374.0,6088.0,31.42
+LA,Zachary Police Department,30.544002,-91.093174,LA0170300,Zachary,19278.0,1129.0,5.86
+LA,Natchitoches Police Department,31.734982,-93.086106,LA0350100,Natchitoches,18105.0,6232.0,34.42
+LA,Gretna Police Department,29.677888,-90.100494,LA0260100,Gretna,17836.0,3874.0,21.72
+LA,Opelousas Police Department,30.53644,-92.08239,LA0490200,Opelousas,15884.0,5705.0,35.92
+LA,Thibodaux Police Department,29.491992,-90.394849,LA0290500,Thibodaux,15242.0,2515.0,16.5
+LA,Youngsville Police Department,30.206507,-92.06417,LA0280500,Youngsville,15167.0,889.0,5.86
+LA,Pineville Police Department,31.324041,-92.43274,LA0400200,Pineville,14653.0,2050.0,13.99
+LA,West Monroe Police Department,32.520428,-92.14767,LA0370200,West Monroe,13103.0,3766.0,28.74
+LA,Broussard Police Department,30.147108,-91.96057,LA0280100,Broussard,12960.0,2111.0,16.29
+LA,Baker Police Department,30.589071,-91.165436,LA0170100,Baker,12736.0,1883.0,14.78
+LA,Minden Police Department,32.732152,-93.339825,LA0600100,Minden,12145.0,3753.0,30.9
+MA,Boston Police Department,42.33196,-71.020173,MA0130100,Boston,672814.0,110995.0,16.5
+MA,Worcester Police Department,42.27213,-71.79874,MA0146000,Worcester,203867.0,36633.0,17.97
+MA,Springfield Police Department,42.108536,-72.584915,MA0071800,Springfield,155770.0,39495.0,25.35
+MA,Cambridge Police Department,42.36524,-71.10541,MA0091100,Cambridge,116892.0,12382.0,10.59
+MA,Lowell Police Department,42.64813,-71.31313,MA0092600,Lowell,114804.0,19294.0,16.81
+MA,Brockton Police Department,42.085533,-71.01567,MA0120300,Brockton,104216.0,11811.0,11.33
+MA,Quincy Police Department,42.25548,-70.99678,MA0112000,Quincy,100544.0,10717.0,10.66
+MA,New Bedford Police Department,41.638344,-70.94959,MA0031100,New Bedford,100309.0,18472.0,18.42
+MA,Bedford Police Department,42.493195,-71.282936,MA0090600,Bedford,100309.0,18472.0,18.42
+MA,Lynn Police Department,42.46463,-70.949905,MA0051400,Lynn,100233.0,14868.0,14.83
+MA,Fall River Police Department,41.78334,-71.12577,MA0030800,Fall River,93339.0,17464.0,18.71
+MA,Newton Police Department,42.34906,-71.22799,MA0093300,Newton,88647.0,3438.0,3.88
+MA,Lawrence Police Department,42.708637,-71.165016,MA0051300,Lawrence,87798.0,16625.0,18.94
+MA,Somerville Police Department,42.379456,-71.092606,MA0093900,Somerville,80608.0,8101.0,10.05
+MA,Framingham Police Department,42.481711,-71.394917,MA0091800,Framingham,72089.0,7259.0,10.07
+MA,Haverhill Police Department,42.727875,-71.011185,MA0051100,Haverhill,67093.0,7125.0,10.62
+MA,Malden Police Department,42.481711,-71.394917,MA0092700,Malden,65602.0,9595.0,14.63
+MA,Waltham Police Department,42.481711,-71.394917,MA0094700,Waltham,64655.0,5048.0,7.81
+MA,Brookline Police Department,42.333908,-71.12126,MA0110400,Brookline,62620.0,6220.0,9.93
+MA,Revere Police Department,42.40302,-71.00097,MA0130400,Revere,60720.0,7811.0,12.86
+MA,Medford Police Department,42.416054,-71.11058,MA0093000,Medford,60708.0,4432.0,7.3
+MA,Taunton Police Department,41.90118,-71.08913,MA0031900,Taunton,59076.0,7881.0,13.34
+MA,Weymouth Police Department,42.200764,-70.94817,MA0112700,Weymouth,57217.0,3413.0,5.97
+MA,Chicopee Police Department,42.155155,-72.58503,MA0070500,Chicopee,55636.0,7972.0,14.33
+MA,Peabody Police Department,42.521538,-70.939514,MA0052500,Peabody,54200.0,4320.0,7.97
+MD,Baltimore City Sheriff's Office,39.23499,-76.61133,MD0040600,Baltimore City Sheriff's Office,592211.0,115748.0,19.55
+MD,Baltimore Police Department,39.32253,-76.62148,MDBPD0000,Baltimore,592211.0,115748.0,19.55
+MD,Frederick Police Department,39.414253,-77.41244,MD0110300,Frederick,76376.0,7550.0,9.89
+MD,Gaithersburg Police Department,39.140232,-77.19374,MD0160200,Gaithersburg,68827.0,7444.0,10.82
+MD,Rockville Police Department,39.137381,-77.203063,MD0160500,Rockville,67095.0,4638.0,6.91
+MD,Bowie Police Department,38.960632,-76.74079,MD0174100,Bowie,58113.0,1898.0,3.27
+MD,Hagerstown Police Department,39.603621,-77.814671,MD0220300,Hagerstown,43015.0,10766.0,25.03
+MD,Annapolis Police Department,38.993374,-76.560511,MD0020100,Annapolis,40581.0,3680.0,9.07
+MD,Salisbury Police Department,38.36716,-75.632027,MD0230300,Salisbury,32583.0,7762.0,23.82
+MD,Laurel Police Department,39.10615,-76.8445,MD0171700,Laurel,29438.0,2850.0,9.68
+MD,Greenbelt Police Department,38.82588,-76.847272,MD0171400,Greenbelt,24602.0,3905.0,15.87
+MD,Landover Hills Police Department,38.82588,-76.847272,MD0171600,Landover Hills,24508.0,4502.0,18.37
+MD,Hyattsville Police Department,38.95264,-76.94278,MD0171500,Hyattsville,20790.0,1881.0,9.05
+MD,Westminster Police Department,39.57562,-76.99303,MD0070800,Westminster,19783.0,2201.0,11.13
+MD,Cumberland Police Department,39.612309,-78.703108,MD0010200,Cumberland,19028.0,3567.0,18.75
+MD,Takoma Park Police Department,38.98107,-77.01026,MD0160600,Takoma Park,17610.0,1363.0,7.74
+MD,Easton Police Department,38.749427,-76.17913,MD0210100,Easton,16912.0,1618.0,9.57
+MD,Elkton Police Department,39.610645,-75.83182,MD0080400,Elkton,15724.0,3164.0,20.12
+MD,Havre de Grace Police Department,39.548725,-76.09505,MD0130300,Havre de Grace,14625.0,1476.0,10.09
+MD,New Carrollton Police Department,38.82588,-76.847272,MD0173900,New Carrollton,13574.0,946.0,6.97
+MD,Cambridge Police Department,38.56043,-76.06745,MD0100100,Cambridge,13026.0,2947.0,22.62
+MD,Rock Hall Police Department,39.239178,-76.124203,MD0150400,Rock Hall,12764.0,238.0,1.86
+MD,La Plata Police Department,38.472853,-77.015427,MD0090100,La Plata,10054.0,280.0,2.78
+MD,Chevy Chase Village Police Department,38.97001,-77.07716,MD0160100,Chevy Chase Village,9889.0,163.0,1.65
+MD,Bladensburg Police Department,38.942184,-76.9332,MD0170200,Bladensburg,9591.0,820.0,8.55
+ME,Portland Police Department,43.658966,-70.25237,ME0030500,Portland,68063.0,8453.0,12.42
+ME,Lewiston Police Department,44.093903,-70.2145,ME0010200,Lewiston,36615.0,5612.0,15.33
+ME,Bangor Police Department,44.798046,-68.77305,ME0100100,Bangor,31920.0,4812.0,15.08
+ME,South Portland Police Department,43.63255,-70.257835,ME0030600,South Portland,26428.0,1540.0,5.83
+ME,Auburn Police Department,44.097458,-70.22578,ME0010100,Auburn,23790.0,2583.0,10.86
+ME,Biddeford Police Department,43.427239,-70.670402,ME0160100,Biddeford,22331.0,2827.0,12.66
+ME,Sanford Police Department,43.43846,-70.7748,ME0160500,Sanford,21812.0,2034.0,9.33
+ME,Saco Police Department,43.497833,-70.447,ME0160400,Saco,20203.0,1847.0,9.14
+ME,Westbrook Police Department,43.679535,-70.35402,ME0030800,Westbrook,20074.0,2053.0,10.23
+ME,Augusta Police Department,44.417012,-69.765764,ME0060100,Augusta,18895.0,3519.0,18.62
+ME,Brunswick Police Department,43.9161,-69.96341,ME0030100,Brunswick,16554.0,1408.0,8.51
+ME,Waterville Police Department,44.54938,-69.628716,ME0060400,Waterville,15872.0,3176.0,20.01
+ME,Orono Police Department,45.390602,-68.657487,ME0100600,Orono,10426.0,2221.0,21.3
+ME,Brewer Police Department,44.779922,-68.76124,ME0100200,Brewer,9606.0,1446.0,15.05
+ME,Old Orchard Beach Police Department,43.523678,-70.37783,ME0160300,Old Orchard Beach,8954.0,942.0,10.52
+ME,Presque Isle Police Department,46.688232,-68.007095,ME0020600,Presque Isle,8859.0,1345.0,15.18
+ME,Bath Police Department,43.9134,-69.815414,ME0120100,Bath,8718.0,1076.0,12.34
+ME,Ellsworth Police Department,44.564906,-68.370703,ME0050200,Ellsworth,8340.0,675.0,8.09
+ME,Caribou Police Department,46.727057,-68.64941,ME0020100,Caribou,7448.0,1011.0,13.57
+ME,Old Town Police Department,44.92838,-68.64624,ME0100500,Old Town,7415.0,1552.0,20.93
+ME,Gorham Police Department,43.684464,-70.42726,ME0030400,Gorham,7378.0,207.0,2.81
+ME,Rockland Police Department,44.042045,-69.038514,ME0070200,Rockland,6977.0,945.0,13.54
+ME,Belfast Police Department,44.505451,-69.139632,ME0140100,Belfast,6890.0,1277.0,18.53
+ME,Topsham Police Department,43.916694,-69.843994,ME0120200,Topsham,6854.0,843.0,12.3
+ME,Skowhegan Police Department,44.766346,-69.71658,ME0130200,Skowhegan,6344.0,951.0,14.99
+MI,Detroit Police Department,42.33564,-83.04305,MI8234900,Detroit,645658.0,202311.0,31.33
+MI,Warren Police Department,42.671467,-82.910869,MI5080600,Warren,138996.0,21113.0,15.19
+MI,Sterling Heights Police Department,42.59104,-83.01116,MI5076500,Sterling Heights,134062.0,13054.0,9.74
+MI,Ann Arbor Police Department,42.252327,-83.844634,MI8121800,Ann Arbor,122731.0,24786.0,20.2
+MI,Dearborn Police Department,42.314945,-83.19971,MI8234300,Dearborn,107985.0,26603.0,24.64
+MI,Livonia Police Department,42.284664,-83.261953,MI8253800,Livonia,95294.0,4416.0,4.63
+MI,Westland Police Department,42.32417,-83.40208,MI8281700,Westland,84961.0,11469.0,13.5
+MI,Farmington Hills Police Department,42.484615,-83.3609,MI6338900,Farmington Hills,83749.0,4793.0,5.72
+MI,Flint Police Department,43.01188,-83.68639,MI2539800,Flint,83312.0,28884.0,34.67
+MI,Wyoming Police Department,42.921856,-85.69716,MI4183400,Wyoming,76625.0,8688.0,11.34
+MI,Southfield Police Department,42.48026,-83.24084,MI6375100,Southfield,76196.0,8274.0,10.86
+MI,Kalamazoo Police Department,42.28092,-85.58168,MI3949900,Kalamazoo,74020.0,18822.0,25.43
+MI,Taylor Police Department,42.226578,-83.2629,MI8277500,Taylor,63071.0,9344.0,14.82
+MI,Dearborn Heights Police Department,42.29735,-83.288826,MI8234400,Dearborn Heights,62334.0,12488.0,20.03
+MI,St. Clair Shores Police Department,42.496677,-82.888504,MI5072200,St. Clair Shores,59046.0,4471.0,7.57
+MI,Royal Oak Police Department,42.660452,-83.38421,MI6371400,Royal Oak,58368.0,3636.0,6.23
+MI,Kentwood Police Department,42.880886,-85.59636,MI4185000,Kentwood,53884.0,5365.0,9.96
+MI,Battle Creek Police Department,42.31664,-85.1799,MI1323700,Battle Creek,52434.0,11331.0,21.61
+MI,Portage Police Department,42.201576,-85.5913,MI3967800,Portage,48767.0,3580.0,7.34
+MI,Roseville Police Department,42.671467,-82.910869,MI5071300,Roseville,47692.0,6411.0,13.44
+MI,East Lansing Police Department,42.603534,-84.373811,MI3336400,East Lansing,47427.0,11543.0,24.34
+MI,Lansing Police Department,42.733696,-84.55264,MI3351900,Lansing,47427.0,11543.0,24.34
+MI,Saginaw Police Department,43.328267,-84.05541,MI7371700,Saginaw,44796.0,15613.0,34.85
+MI,Midland Police Department,43.614353,-84.24713,MI5658300,Midland,42425.0,4348.0,10.25
+MI,Lincoln Park Police Department,42.250534,-83.18071,MI8253400,Lincoln Park,39741.0,8308.0,20.91
+MN,Minneapolis Police Department,44.987347,-93.249756,MN0271100,Minneapolis,425091.0,69868.0,16.44
+MN,Rochester Police Department,44.019302,-92.460846,MN0550100,Rochester,119732.0,10190.0,8.51
+MN,Bloomington Police Department,44.822388,-93.30388,MN0270100,Bloomington,89436.0,7178.0,8.03
+MN,Duluth Police Department,47.578635,-92.51457,MN0690600,Duluth,86711.0,14172.0,16.34
+MN,Brooklyn Park Police Department,45.10883,-93.34976,MN0270300,Brooklyn Park,85247.0,7391.0,8.67
+MN,Plymouth Police Department,45.022762,-93.47739,MN0271700,Plymouth,80034.0,3034.0,3.79
+MN,Woodbury Police Department,45.037929,-92.890117,MN0821100,Woodbury,74014.0,3120.0,4.22
+MN,Maple Grove Police Department,45.006069,-93.475187,MN0272700,Maple Grove,69900.0,3233.0,4.63
+MN,Lakeville Police Department,44.656586,-93.24271,MN0191100,Lakeville,69026.0,2686.0,3.89
+MN,Blaine Police Department,45.27411,-93.242723,MN0020200,Blaine,68999.0,3821.0,5.54
+MN,St. Cloud Police Department,45.555235,-94.610482,MN0730400,St. Cloud,68430.0,14170.0,20.71
+MN,Eagan Police Department,44.818928,-93.167145,MN0190800,Eagan,68205.0,3921.0,5.75
+MN,Eden Prairie Police Department,44.856937,-93.460175,MN0272600,Eden Prairie,64048.0,3185.0,4.97
+MN,Burnsville Police Department,44.670893,-93.062481,MN0190100,Burnsville,63926.0,4384.0,6.86
+MN,Coon Rapids Police Department,45.172855,-93.30436,MN0020500,Coon Rapids,63269.0,3916.0,6.19
+MN,Apple Valley Police Department,44.73532,-93.20977,MN0191000,Apple Valley,55237.0,2582.0,4.67
+MN,Minnetonka Police Department,44.939854,-93.46169,MN0271200,Minnetonka,53809.0,2409.0,4.48
+MN,Edina Police Department,44.911552,-93.34768,MN0270600,Edina,53059.0,2257.0,4.25
+MN,St. Louis Park Police Department,44.947575,-93.34395,MN0272100,St. Louis Park,49539.0,3164.0,6.39
+MN,Moorhead Police Department,46.884712,-96.765564,MN0140400,Moorhead,44129.0,7302.0,16.55
+MN,Mankato Police Department,44.161644,-94.00835,MN0070100,Mankato,43938.0,9106.0,20.72
+MN,Shakopee Police Department,44.796043,-93.51105,MN0700400,Shakopee,43396.0,2293.0,5.28
+MN,Maplewood Police Department,45.01525,-93.100141,MN0620400,Maplewood,41673.0,4201.0,10.08
+MN,Cottage Grove Police Department,44.833565,-92.95351,MN0820700,Cottage Grove,38582.0,1199.0,3.11
+MN,Richfield Police Department,44.88162,-93.26794,MN0271800,Richfield,36899.0,2659.0,7.21
+MO,North Kansas City Police Department,39.143047,-94.57261,MO0240700,North Kansas City,502597.0,74087.0,14.74
+MO,Kansas City Police Department,39.100594,-94.57735,MOKPD0000,Kansas City,502597.0,74087.0,14.74
+MO,Springfield Police Department,37.215492,-93.29072,MO0390300,Springfield,168603.0,33364.0,19.79
+MO,Columbia Police Department,38.989657,-92.310779,MO0100200,Columbia,124342.0,23021.0,18.51
+MO,Independence Police Department,39.09326,-94.413155,MO0480600,Independence,122230.0,17278.0,14.14
+MO,Lee's Summit Police Department,38.93069,-94.37891,MO0480800,Lee's Summit,100772.0,4208.0,4.18
+MO,O'Fallon Police Department,38.802345,-90.62706,MO0920100,O'Fallon,90802.0,4546.0,5.01
+MO,St. Joseph Police Department,39.76904,-94.85424,MO0110100,St. Joseph,73138.0,11967.0,16.36
+MO,St. Charles Police Department,38.774826,-90.527084,MO0920300,St. Charles,70218.0,4044.0,5.76
+MO,Blue Springs Police Department,39.017525,-94.27792,MO0480100,Blue Springs,58265.0,3260.0,5.6
+MO,St. Peters Police Department,38.781102,-90.674915,MO0920400,St. Peters,57289.0,2094.0,3.66
+MO,Florissant Police Department,38.79943,-90.317116,MO0953000,Florissant,52382.0,5461.0,10.43
+MO,Joplin Police Department,37.088596,-94.51099,MO0490700,Joplin,51539.0,8806.0,17.09
+MO,Chesterfield Police Department,38.640702,-90.445954,MO0959A00,Chesterfield,49675.0,1896.0,3.82
+MO,Wentzville Police Department,38.781102,-90.674915,MO0920500,Wentzville,43213.0,1900.0,4.4
+MO,Jefferson City Police Department,38.574104,-92.171036,MO0260100,Jefferson City,43076.0,4827.0,11.21
+MO,Cape Girardeau Police Department,37.3036,-89.52708,MO0160100,Cape Girardeau,39415.0,8104.0,20.56
+MO,University City Police Department,38.65647,-90.309975,MO0957300,University City,34953.0,4786.0,13.69
+MO,Ballwin Police Department,38.640702,-90.445954,MO0950200,Ballwin,30998.0,1761.0,5.68
+MO,Liberty Police Department,39.2461,-94.41923,MO0240600,Liberty,30129.0,2216.0,7.36
+MO,Raytown Police Department,39.015877,-94.463005,MO0481000,Raytown,29893.0,2565.0,8.58
+MO,Kirkwood Police Department,38.602047,-90.35826,MO0954300,Kirkwood,29233.0,1603.0,5.48
+MO,Maryland Heights Police Department,38.714573,-90.43463,MO0950H00,Maryland Heights,28141.0,1675.0,5.95
+MO,Gladstone Police Department,39.00026,-94.57986,MO0240400,Gladstone,26825.0,2768.0,10.32
+MO,Grandview Police Department,38.889206,-94.53133,MO0480400,Grandview,25931.0,3583.0,13.82
+MS,Jackson Police Department,32.29755,-90.184235,MS0250100,Jackson,156803.0,39261.0,25.04
+MS,Gulfport Police Department,30.369255,-89.08911,MS0240200,Gulfport,72468.0,18014.0,24.86
+MS,Southaven Police Department,34.874266,-89.99324,MS0170100,Southaven,54141.0,6496.0,12.0
+MS,Biloxi Police Department,30.398106,-88.90185,MS0240100,Biloxi,49061.0,6878.0,14.02
+MS,Hattiesburg Police Department,31.18858,-89.259447,MS0180100,Hattiesburg,47074.0,14098.0,29.95
+MS,Olive Branch Police Department,34.874266,-89.99324,MS0170200,Olive Branch,39136.0,2836.0,7.25
+MS,Tupelo Police Department,34.288965,-88.680887,MS0410100,Tupelo,37872.0,5249.0,13.86
+MS,Meridian Police Department,32.363552,-88.70209,MS0380100,Meridian,35625.0,10463.0,29.37
+MS,Greenville Police Department,33.273131,-90.94443,MS0760100,Greenville,30175.0,9595.0,31.8
+MS,Clinton Police Department,32.339264,-90.32945,MS0250300,Clinton,27830.0,2471.0,8.88
+MS,Madison Police Department,32.63437,-90.03416,MS0450400,Madison,27459.0,1278.0,4.65
+MS,Pearl Police Department,32.274925,-90.1317,MS0610200,Pearl,27017.0,2757.0,10.2
+MS,Horn Lake Police Department,34.96262,-90.04809,MS0170400,Horn Lake,26623.0,3872.0,14.54
+MS,Oxford Police Department,34.374596,-89.52693,MS0360100,Oxford,25859.0,7336.0,28.37
+MS,Brandon Police Department,32.262057,-89.946552,MS0610100,Brandon,24887.0,1157.0,4.65
+MS,Starkville Police Department,33.46273,-88.81639,MS0530100,Starkville,24578.0,6680.0,27.18
+MS,Ridgeland Police Department,32.63437,-90.03416,MS0450200,Ridgeland,24330.0,1650.0,6.78
+MS,Columbus Police Department,33.471424,-88.439723,MS0440100,Columbus,23858.0,6009.0,25.19
+MS,Pascagoula Police Department,30.458491,-88.619991,MS0300300,Pascagoula,22001.0,5189.0,23.59
+MS,Vicksburg Police Department,32.357005,-90.851791,MS0750100,Vicksburg,21748.0,5904.0,27.15
+MS,Gautier Police Department,30.393581,-88.663605,MS0300600,Gautier,18932.0,3359.0,17.74
+MS,Ocean Springs Police Department,30.458491,-88.619991,MS0300200,Ocean Springs,18275.0,1320.0,7.22
+MS,Laurel Police Department,31.687548,-89.1341,MS0340200,Laurel,17375.0,5766.0,33.19
+MS,Hernando Police Department,34.82351,-89.99768,MS0170300,Hernando,16730.0,1212.0,7.24
+MS,Long Beach Police Department,30.416536,-89.083376,MS0240300,Long Beach,16654.0,1548.0,9.3
+MT,Billings Police Department,45.936987,-108.276656,MT0560100,Billings,115689.0,12517.0,10.82
+MT,Great Falls Police Department,47.316443,-111.350571,MT0070100,Great Falls,60381.0,8546.0,14.15
+MT,Bozeman Police Department,45.535559,-111.173443,MT0160100,Bozeman,51574.0,7071.0,13.71
+MT,Kalispell Police Department,48.314696,-114.054319,MT0150300,Kalispell,24260.0,2513.0,10.36
+MT,Belgrade Police Department,45.77697,-111.17548,MT0160200,Belgrade,10555.0,1265.0,11.98
+MT,Havre Police Department,48.550076,-109.67535,MT0210100,Havre,9417.0,1176.0,12.49
+MT,Deer Lodge Police Department,46.399918,-112.735176,MT0390100,Deer Lodge,9380.0,2020.0,21.54
+MT,Miles City Police Department,46.40739,-105.83021,MT0090100,Miles City,8441.0,1156.0,13.7
+MT,Livingston Police Department,45.421905,-110.532798,MT0340100,Livingston,8110.0,1132.0,13.96
+MT,Whitefish Police Department,48.314696,-114.054319,MT0150200,Whitefish,7783.0,372.0,4.78
+MT,Laurel Police Department,45.66986,-108.77348,MT0560200,Laurel,7164.0,673.0,9.39
+MT,Sidney Police Department,47.785513,-104.563387,MT0420100,Sidney,6240.0,467.0,7.48
+MT,Lewistown Police Department,47.064312,-109.42455,MT0140100,Lewistown,5967.0,1090.0,18.27
+MT,Columbia Falls Police Department,48.373276,-114.18298,MT0150100,Columbia Falls,5304.0,582.0,10.97
+MT,Polson Police Department,47.695354,-114.16184,MT0240100,Polson,5161.0,691.0,13.39
+MT,Hamilton Police Department,46.245712,-114.15697,MT0410100,Hamilton,4632.0,780.0,16.84
+MT,Dillon Police Department,45.21792,-112.63559,MT0010100,Dillon,3930.0,839.0,21.35
+MT,Glasgow Police Department,48.34998,-106.670514,MT0530100,Glasgow,3192.0,247.0,7.74
+MT,Cut Bank Police Department,48.635544,-112.330734,MT0180200,Cut Bank,3049.0,656.0,21.52
+MT,Conrad Police Department,48.16878,-111.94701,MT0370100,Conrad,2758.0,460.0,16.68
+MT,Libby Police Department,48.542232,-115.404343,MT0270100,Libby,2745.0,607.0,22.11
+MT,Wolf Point Police Department,48.089935,-105.64279,MT0430200,Wolf Point,2638.0,765.0,29.0
+MT,Missoula Police Department,46.873913,-113.99474,MT0320100,Missoula,2162.0,224.0,10.36
+MT,Colstrip Police Department,46.161718,-106.701989,MT0440300,Colstrip,2094.0,155.0,7.4
+MT,Columbus Police Department,45.658928,-109.382156,MT0480100,Columbus,2069.0,124.0,5.99
+NC,Raleigh Police Department,35.789846,-78.650624,NC0920100,Raleigh,462219.0,53762.0,11.63
+NC,Greensboro Police Department,36.070328,-79.79291,NC0410200,Greensboro,295483.0,48985.0,16.58
+NC,Durham Police Department,35.99697,-78.90893,NC0320100,Durham,279106.0,36315.0,13.01
+NC,Fayetteville Police Department,35.054447,-78.88379,NC0260100,Fayetteville,208497.0,36951.0,17.72
+NC,Cary Police Department,35.789846,-78.650624,NC0920300,Cary,171603.0,9717.0,5.66
+NC,Wilmington Police Department,34.177466,-77.871378,NC0650200,Wilmington,115976.0,20861.0,17.99
+NC,High Point Police Department,35.95928,-79.99295,NC0410300,High Point,113148.0,15774.0,13.94
+NC,Concord Police Department,35.387845,-80.552868,NC0130100,Concord,102566.0,8405.0,8.19
+NC,Asheville Police Department,35.609371,-82.530426,NC0110100,Asheville,93272.0,11160.0,11.97
+NC,Greenville Police Department,35.591095,-77.372376,NC0740300,Greenville,87815.0,21423.0,24.4
+NC,Gastonia Police Department,35.293344,-81.177256,NC0360600,Gastonia,79483.0,11152.0,14.03
+NC,Jacksonville Police Department,34.763109,-77.499469,NC0670100,Jacksonville,73224.0,8785.0,12.0
+NC,Chapel Hill Police Department,35.92805,-79.05418,NC0680100,Chapel Hill,60920.0,9793.0,16.08
+NC,Huntersville Police Department,35.246862,-80.833832,NC0600600,Huntersville,60166.0,2511.0,4.17
+NC,Apex Police Department,35.733063,-78.85477,NC0920200,Apex,58066.0,1909.0,3.29
+NC,Burlington Police Department,36.041974,-79.399935,NC0010100,Burlington,56563.0,9645.0,17.05
+NC,Rocky Mount Police Department,35.965945,-77.987555,NC0330100,Rocky Mount,54375.0,10102.0,18.58
+NC,Kannapolis Police Department,35.493385,-80.62674,NC0130200,Kannapolis,52173.0,6649.0,12.74
+NC,Mooresville Police Department,35.806356,-80.874545,NC0490100,Mooresville,48431.0,3933.0,8.12
+NC,Wilson Police Department,35.700351,-77.921602,NC0980100,Wilson,47914.0,9924.0,20.71
+NC,Wake Forest Police Department,35.789846,-78.650624,NC0920700,Wake Forest,46387.0,1510.0,3.26
+NC,Hickory Police Department,35.729954,-81.343346,NC0180200,Hickory,42831.0,6893.0,16.09
+NC,Holly Springs Police Department,35.789846,-78.650624,NC0921700,Holly Springs,40198.0,1625.0,4.04
+NC,Salisbury Police Department,35.639218,-80.525344,NC0800500,Salisbury,35258.0,7574.0,21.48
+NC,Monroe Police Department,34.991501,-80.530131,NC0900200,Monroe,34464.0,4609.0,13.37
+ND,Fargo Police Department,46.927003,-97.252375,ND0090200,Fargo,124979.0,15636.0,12.51
+ND,Bismarck Police Department,46.80085,-100.778694,ND0080100,Bismarck,73321.0,6179.0,8.43
+ND,Grand Forks Police Department,47.926003,-97.450851,ND0180100,Grand Forks,58867.0,9925.0,16.86
+ND,Minot Police Department,48.234222,-101.30105,ND0510200,Minot,48005.0,5516.0,11.49
+ND,West Fargo Police Department,46.872604,-96.88475,ND0090300,West Fargo,37913.0,2377.0,6.27
+ND,Williston Police Department,48.345867,-103.4874,ND0530200,Williston,27368.0,2055.0,7.51
+ND,Dickinson Police Department,46.89417,-102.78564,ND0450100,Dickinson,24851.0,2959.0,11.91
+ND,Mandan Police Department,46.82736,-100.89153,ND0300200,Mandan,23784.0,2066.0,8.69
+ND,Jamestown Police Department,46.903137,-98.70666,ND0470100,Jamestown,15823.0,2051.0,12.96
+ND,Wahpeton Police Department,46.266014,-96.60567,ND0390300,Wahpeton,7928.0,1212.0,15.29
+ND,Devils Lake Police Department,48.107742,-98.867455,ND0360100,Devils Lake,7201.0,1403.0,19.48
+ND,Watford City Police Department,47.742475,-103.403215,ND0270100,Watford City,5725.0,641.0,11.2
+ND,Grafton Police Department,48.418118,-97.40549,ND0500100,Grafton,4186.0,408.0,9.75
+ND,Lincoln Police Department,46.764328,-100.69424,ND0080300,Lincoln,4126.0,491.0,11.9
+ND,Beulah Police Department,47.307175,-101.833261,ND0290100,Beulah,3070.0,185.0,6.03
+ND,New Town Police Department,48.210291,-102.364756,ND0310100,New Town,2745.0,594.0,21.64
+ND,Hazen Police Department,47.307175,-101.833261,ND0290200,Hazen,2564.0,297.0,11.58
+ND,Rugby Police Department,48.37129,-99.97709,ND0350100,Rugby,2546.0,328.0,12.88
+ND,Carrington Police Department,47.44954,-99.12645,ND0160100,Carrington,2133.0,181.0,8.49
+ND,Lisbon Police Department,46.449276,-97.647554,ND0370200,Lisbon,2109.0,403.0,19.11
+ND,Stanley Police Department,48.210291,-102.364756,ND0310300,Stanley,2079.0,104.0,5.0
+ND,Oakes Police Department,46.140102,-98.09345,ND0110200,Oakes,1981.0,72.0,3.63
+ND,Harvey Police Department,47.770348,-99.93452,ND0520100,Harvey,1701.0,196.0,11.52
+ND,Bowman Police Department,46.110144,-103.505943,ND0060100,Bowman,1604.0,162.0,10.1
+ND,Burlington Police Department,48.216686,-101.540537,ND0510300,Burlington,1534.0,65.0,4.24
+NE,Omaha Police Department,41.297091,-96.154066,NB0280200,Omaha,488059.0,57642.0,11.81
+NE,Lincoln Police Department,40.783547,-96.688658,NB0550100,Lincoln,289136.0,35909.0,12.42
+NE,Bellevue Police Department,41.115064,-96.109125,NB0770100,Bellevue,62888.0,5443.0,8.66
+NE,Grand Island Police Department,40.866023,-98.498004,NB0400100,Grand Island,52755.0,6600.0,12.51
+NE,Kearney Police Department,40.855226,-99.074983,NB0100100,Kearney,33558.0,4892.0,14.58
+NE,Fremont Police Department,41.577008,-96.645853,NB0270100,Fremont,27245.0,3179.0,11.67
+NE,Hastings Police Department,40.520632,-98.500044,NB0010100,Hastings,25247.0,3580.0,14.18
+NE,Norfolk Police Department,41.909929,-97.606856,NB0600100,Norfolk,24964.0,3114.0,12.47
+NE,Columbus Police Department,41.576866,-97.513467,NB0710100,Columbus,23954.0,1865.0,7.79
+NE,Papillion Police Department,41.115064,-96.109125,NB0770200,Papillion,23875.0,1129.0,4.73
+NE,North Platte Police Department,41.050322,-100.744481,NB0560100,North Platte,23543.0,3080.0,13.08
+NE,La Vista Police Department,41.115064,-96.109125,NB0770400,La Vista,16786.0,1017.0,6.06
+NE,Scottsbluff Police Department,41.851589,-103.70586,NB0790100,Scottsbluff,14511.0,2170.0,14.95
+NE,South Sioux City Police Department,42.390456,-96.562549,NB0220100,South Sioux City,13796.0,1573.0,11.4
+NE,Beatrice Police Department,40.255234,-96.683453,NB0340100,Beatrice,12276.0,2491.0,20.29
+NE,Lexington Police Department,40.867378,-99.815154,NB0240300,Lexington,10325.0,1567.0,15.18
+NE,Gering Police Department,41.851589,-103.70586,NB0790200,Gering,8521.0,688.0,8.07
+NE,Alliance Police Department,42.215665,-103.087821,NB0070100,Alliance,8141.0,1084.0,13.32
+NE,York Police Department,40.873056,-97.596742,NB0930100,York,8091.0,665.0,8.22
+NE,Blair Police Department,41.533973,-96.224577,NB0890100,Blair,7725.0,976.0,12.63
+NE,Seward Police Department,40.871944,-97.140383,NB0800100,Seward,7651.0,521.0,6.81
+NE,McCook Police Department,40.16942,-100.468576,NB0730100,McCook,7425.0,825.0,11.11
+NE,Crete Police Department,40.516802,-97.131755,NB0760200,Crete,7224.0,1347.0,18.65
+NE,Nebraska City Police Department,40.637992,-96.131027,NB0660100,Nebraska City,7206.0,1334.0,18.51
+NE,Plattsmouth Police Department,40.909878,-96.140609,NB0130100,Plattsmouth,6558.0,565.0,8.62
+NH,Chester Police Department,42.9603,-71.26257,NH0081000,Chester,114730.0,14064.0,12.26
+NH,Manchester Police Department,42.989944,-71.46063,NH0063400,Manchester,114730.0,14064.0,12.26
+NH,Nashua Police Department,42.911643,-71.723101,NH0064600,Nashua,90659.0,7112.0,7.84
+NH,Concord Police Department,43.205547,-71.53967,NH0071600,Concord,43552.0,3834.0,8.8
+NH,Dover Police Department,43.19398,-70.87545,NH0090400,Dover,32599.0,2536.0,7.78
+NH,Rochester Police Department,43.293172,-71.035889,NH0092000,Rochester,32317.0,2958.0,9.15
+NH,Derry Police Department,42.892834,-71.32795,NH0081600,Derry,23571.0,1934.0,8.2
+NH,Londonderry Police Department,42.860878,-71.37196,NH0083800,Londonderry,23571.0,1934.0,8.2
+NH,Keene Police Department,42.92329,-72.26388,NH0031800,Keene,22969.0,2320.0,10.1
+NH,Portsmouth Police Department,43.061455,-70.76706,NH0085800,Portsmouth,21897.0,1293.0,5.9
+NH,Laconia Police Department,43.519109,-71.425366,NH0011400,Laconia,16786.0,1688.0,10.06
+NH,Lebanon Police Department,43.632645,-72.289085,NH0054400,Lebanon,14316.0,1103.0,7.7
+NH,Claremont Police Department,43.372253,-72.33752,NH0100600,Claremont,12955.0,2143.0,16.54
+NH,Somersworth Police Department,43.293172,-71.035889,NH0092400,Somersworth,11964.0,1286.0,10.75
+NH,Durham Police Department,43.293172,-71.035889,NH0090600,Durham,11616.0,877.0,7.55
+NH,New Durham Police Department,43.293172,-71.035889,NH0091800,New Durham,11616.0,877.0,7.55
+NH,Exeter Police Department,42.988842,-71.098746,NH0082200,Exeter,9908.0,660.0,6.66
+NH,New Hampton Police Department,43.519109,-71.425366,NH0011800,New Hampton,9900.0,295.0,2.98
+NH,South Hampton Police Department,42.988842,-71.098746,NH0087000,South Hampton,9900.0,295.0,2.98
+NH,Hampton Police Department,42.988842,-71.098746,NH0083000,Hampton,9900.0,295.0,2.98
+NH,Hampton Falls Police Department,42.988842,-71.098746,NH0083200,Hampton Falls,9900.0,295.0,2.98
+NH,North Hampton Police Department,42.973667,-70.83402,NH0085000,North Hampton,9900.0,295.0,2.98
+NH,Berlin Police Department,44.469833,-71.18588,NH0040600,Berlin,9710.0,1119.0,11.52
+NH,Hanover Police Department,43.718887,-72.27353,NH0053400,Hanover,8813.0,490.0,5.56
+NH,Franklin Police Department,43.299485,-71.68013,NH0072400,Franklin,8766.0,413.0,4.71
+NJ,Jersey City Police Department,40.720917,-74.04438,NJ0090600,Jersey City,287146.0,45883.0,15.98
+NJ,Paterson Police Department,40.91896,-74.170715,NJ0160800,Paterson,157927.0,39223.0,24.84
+NJ,Elizabeth Police Department,40.659871,-74.308696,NJ0200400,Elizabeth,135772.0,19722.0,14.53
+NJ,Toms River Township Police Department,39.986946,-74.181694,NJ0150700,Toms River Township,91798.0,6773.0,7.38
+NJ,Trenton Police Department,40.227024,-74.75254,NJ0111100,Trenton,90097.0,24202.0,26.86
+NJ,Clifton Police Department,40.86561,-74.160416,NJ0160200,Clifton,89460.0,7772.0,8.69
+NJ,Bayonne Police Department,40.731384,-74.078627,NJ0090100,Bayonne,70553.0,7844.0,11.12
+NJ,Passaic Police Department,41.033763,-74.300307,NJ0160700,Passaic,70308.0,17733.0,25.22
+NJ,East Orange Police Department,40.76055,-74.209236,NJ0070600,East Orange,68918.0,12169.0,17.66
+NJ,Orange Police Department,40.771152,-74.224846,NJ0071700,Orange,68918.0,12169.0,17.66
+NJ,Lakewood Township Police Department,40.093304,-74.21318,NJ0151400,Lakewood Township,66752.0,18014.0,26.99
+NJ,Hoboken Police Department,40.73738,-74.029785,NJ0090500,Hoboken,59369.0,3952.0,6.66
+NJ,New Brunswick Police Department,40.494114,-74.44651,NJ0121400,New Brunswick,55671.0,16540.0,29.71
+NJ,Perth Amboy Police Department,40.51528,-74.27578,NJ0121600,Perth Amboy,55046.0,11340.0,20.6
+NJ,West New York Police Department,40.788315,-74.015236,NJ0091200,West New York,52485.0,10387.0,19.79
+NJ,Hackensack Police Department,40.885597,-74.043846,NJ0022300,Hackensack,45723.0,5564.0,12.17
+NJ,Sayreville Police Department,40.476875,-74.30209,NJ0121900,Sayreville,45062.0,2374.0,5.27
+NJ,Linden Police Department,40.659871,-74.308696,NJ0200900,Linden,43387.0,3308.0,7.62
+NJ,Kearny Police Department,40.772007,-74.13843,NJ0090700,Kearny,41790.0,4034.0,9.65
+NJ,Fort Lee Police Department,40.84407,-73.98105,NJ0021900,Fort Lee,39701.0,3713.0,9.35
+NJ,Atlantic City Police Department,39.35547,-74.44455,NJ0010200,Atlantic City,38481.0,14007.0,36.4
+NJ,Fair Lawn Police Department,40.935867,-74.13274,NJ0021700,Fair Lawn,34820.0,2027.0,5.82
+NJ,Garfield Police Department,40.878628,-74.102425,NJ0022100,Garfield,32481.0,4761.0,14.66
+NJ,Long Branch Police Department,40.303596,-73.99368,NJ0132500,Long Branch,31734.0,6708.0,21.14
+NJ,Westfield Police Department,40.654408,-74.34541,NJ0202000,Westfield,30950.0,619.0,2.0
+NM,Albuquerque Police Department,35.089184,-106.65081,NM0010100,Albuquerque,562336.0,90345.0,16.07
+NM,Las Cruces Police Department,32.316395,-106.77963,NM0070100,Las Cruces,109934.0,23689.0,21.55
+NM,Rio Rancho Police Department,35.268604,-106.634796,NM0230600,Rio Rancho,102403.0,7195.0,7.03
+NM,Roswell Police Department,33.361604,-104.469837,NM0030100,Roswell,48347.0,10793.0,22.32
+NM,Farmington Police Department,36.73906,-108.215805,NM0240200,Farmington,46696.0,9006.0,19.29
+NM,Hobbs Police Department,32.702976,-103.13619,NM0130200,Hobbs,39476.0,6765.0,17.14
+NM,Clovis Police Department,34.572984,-103.346055,NM0050100,Clovis,38505.0,7822.0,20.31
+NM,Carlsbad Police Department,32.457858,-104.306471,NM0080200,Carlsbad,31525.0,4807.0,15.25
+NM,Gallup Police Department,35.526714,-108.74098,NM0170100,Gallup,21901.0,6050.0,27.62
+NM,Los Lunas Police Department,34.71684,-106.806582,NM0320300,Los Lunas,17072.0,1735.0,10.16
+NM,Sunland Park Police Department,31.795942,-106.555046,NM0070600,Sunland Park,16488.0,4788.0,29.04
+NM,Deming Police Department,32.269485,-107.75179,NM0160100,Deming,14730.0,4006.0,27.2
+NM,Las Vegas Police Department,35.591564,-105.22732,NM0250100,Las Vegas,13247.0,3669.0,27.7
+NM,Artesia Police Department,32.457858,-104.306471,NM0080100,Artesia,12637.0,2354.0,18.63
+NM,Portales Police Department,34.197777,-103.334984,NM0220100,Portales,12151.0,2598.0,21.38
+NM,Lovington Police Department,32.946884,-103.3474,NM0130400,Lovington,11505.0,2391.0,20.78
+NM,Grants Police Department,34.93205,-108.000255,NM0330100,Grants,9208.0,2617.0,28.42
+NM,Bernalillo Police Department,35.685071,-106.882619,NM0230100,Bernalillo,9049.0,1357.0,15.0
+NM,Anthony Police Department,32.350912,-106.832182,NM0070200,Anthony,8748.0,3334.0,38.11
+NM,Socorro Police Department,33.991614,-106.939003,NM0280100,Socorro,8553.0,2024.0,23.66
+NM,Corrales Police Department,35.22278,-106.616104,NM0230300,Corrales,8488.0,249.0,2.93
+NM,Ruidoso Police Department,33.352177,-105.67355,NM0140100,Ruidoso,7636.0,719.0,9.42
+NM,Bloomfield Police Department,36.71903,-107.97912,NM0240300,Bloomfield,7514.0,1682.0,22.38
+NM,Belen Police Department,34.660484,-106.774734,NM0320100,Belen,7374.0,1499.0,20.33
+NM,Aztec Police Department,36.822765,-107.9963,NM0240100,Aztec,6283.0,1809.0,28.79
+NV,Henderson Police Department,36.03084,-114.98376,NV0020300,Henderson,311250.0,23697.0,7.61
+NV,Reno Police Department,40.703311,-119.710315,NV0160100,Reno,259913.0,32051.0,12.33
+NV,North Las Vegas Police Department,36.214236,-115.013819,NV0020200,North Las Vegas,259638.0,32931.0,12.68
+NV,Sparks Police Department,39.53786,-119.76551,NV0160200,Sparks,106900.0,9395.0,8.79
+NV,Elko Police Department,40.841106,-115.75706,NV0040100,Elko,20391.0,2454.0,12.03
+NV,Mesquite Police Department,36.804005,-114.06781,NV0020900,Mesquite,20019.0,1626.0,8.12
+NV,Boulder City Police Department,35.978218,-114.83407,NV0020400,Boulder City,14868.0,1657.0,11.14
+NV,Fallon Police Department,39.4748,-118.77769,NV0010100,Fallon,9068.0,1050.0,11.58
+NV,Winnemucca Police Department,41.407914,-118.127591,NV0070100,Winnemucca,8325.0,1120.0,13.45
+NV,West Wendover Police Department,41.141133,-115.351424,NV0040500,West Wendover,4517.0,647.0,14.32
+NV,Yerington Police Department,38.995132,-119.16177,NV0100100,Yerington,3093.0,632.0,20.43
+NV,Carlin Police Department,41.141133,-115.351424,NV0040200,Carlin,2279.0,155.0,6.8
+NV,Lovelock Police Department,40.439639,-118.409477,NV0140100,Lovelock,1747.0,299.0,17.12
+NY,Buffalo Police Department,42.965775,-78.74092,NY0140100,Buffalo,276011.0,73730.0,26.71
+NY,Yonkers Police Department,40.92953,-73.89687,NY0590700,Yonkers,209730.0,27378.0,13.05
+NY,Albany Police Department,42.588272,-73.974015,NY0010100,Albany,99402.0,19541.0,19.66
+NY,Cheektowaga Town Police Department,42.903458,-78.75433,NY0145500,Cheektowaga Town,76497.0,7193.0,9.4
+NY,Mount Vernon Police Department,40.912704,-73.8375,NY0590300,Mount Vernon,72855.0,9132.0,12.53
+NY,Schenectady Police Department,42.814327,-73.93844,NY0460100,Schenectady,66809.0,13505.0,20.21
+NY,Utica Police Department,43.104015,-75.23255,NY0320200,Utica,64723.0,17492.0,27.03
+NY,White Plains Police Department,41.029545,-73.771935,NY0590200,White Plains,59452.0,4955.0,8.33
+NY,Hempstead Village Police Department,40.70976,-73.62349,NY0290600,Hempstead Village,58532.0,9913.0,16.94
+NY,Tonawanda Town Police Department,42.98086,-78.86628,NY0147200,Tonawanda Town,57401.0,5169.0,9.01
+NY,Irondequoit Town Police Department,43.21119,-77.581154,NY0270200,Irondequoit Town,51054.0,4245.0,8.31
+NY,Troy Police Department,42.729664,-73.68714,NY0410200,Troy,50717.0,10759.0,21.21
+NY,Niagara Falls Police Department,43.456731,-78.792142,NY0310200,Niagara Falls,48763.0,11514.0,23.61
+NY,Binghamton Police Department,42.097076,-75.911995,NY0030100,Binghamton,47828.0,14894.0,31.14
+NY,West Seneca Town Police Department,42.832394,-78.753716,NY0147400,West Seneca Town,45390.0,3010.0,6.63
+NY,Freeport Village Police Department,40.65861,-73.58728,NY0290400,Freeport Village,44328.0,3017.0,6.81
+NY,Brighton Town Police Department,43.126137,-77.574745,NY0275000,Brighton Town,36986.0,2978.0,8.05
+NY,Long Beach Police Department,40.589405,-73.665955,NY0290200,Long Beach,34820.0,1705.0,4.9
+NY,New York Mills Village Police Department,43.242727,-75.434282,NY0324000,New York Mills Village,34118.0,1250.0,3.66
+NY,New Hartford Town and Village Police Department,43.05529,-75.27844,NY0324100,New Hartford Town and Village,34118.0,1250.0,3.66
+NY,New Windsor Town Police Department,41.48312,-74.0622,NY0356700,New Windsor Town,34118.0,1250.0,3.66
+NY,Newburgh Town Police Department,41.531647,-74.06472,NY0356300,Newburgh Town,34118.0,1250.0,3.66
+NY,New Paltz Town and Village Police Department,41.947216,-74.265458,NY0552700,New Paltz Town and Village,34118.0,1250.0,3.66
+NY,New Berlin Town Police Department,42.622704,-75.33214,NY0082800,New Berlin Town,34118.0,1250.0,3.66
+NY,New Rochelle Police Department,41.15277,-73.745912,NY0590400,New Rochelle,34118.0,1250.0,3.66
+OH,Columbus Police Department,39.9643,-83.0046,OHCOP0000,Columbus,898143.0,160570.0,17.88
+OH,Cleveland Police Department,41.53992,-81.62757,OHCLP0000,Cleveland,374861.0,114442.0,30.53
+OH,Cincinnati Police Department,39.103947,-84.518715,OHCIP0000,Cincinnati,308664.0,73391.0,23.78
+OH,Toledo Police Department,41.65603,-83.535126,OH0480700,Toledo,271454.0,64598.0,23.8
+OH,Akron Police Department,41.07928,-81.518654,OH0770100,Akron,191483.0,42844.0,22.37
+OH,Dayton Police Department,39.758675,-84.197075,OH0570200,Dayton,138416.0,35824.0,25.88
+OH,Parma Police Department,41.382565,-81.72852,OH0184200,Parma,80880.0,7872.0,9.73
+OH,Canton Police Department,40.79727,-81.37636,OH0760400,Canton,71097.0,20790.0,29.24
+OH,Hamilton Police Department,39.39787,-84.56464,OH0090200,Hamilton,63127.0,10060.0,15.94
+OH,Youngstown Police Department,41.099815,-80.65149,OH0500900,Youngstown,61274.0,20239.0,33.03
+OH,Kettering Police Department,39.69592,-84.16295,OH0570500,Kettering,57503.0,5051.0,8.78
+OH,Elyria Police Department,41.369877,-82.11018,OH0470400,Elyria,52853.0,10588.0,20.03
+OH,Cuyahoga Falls Police Department,41.138668,-81.48351,OH0770300,Cuyahoga Falls,50906.0,4767.0,9.36
+OH,Lakewood Police Department,41.484337,-81.776634,OH0182600,Lakewood,50841.0,6321.0,12.43
+OH,Middletown Police Department,39.51933,-84.400795,OH0090300,Middletown,50114.0,10068.0,20.09
+OH,Newark Police Department,40.093609,-82.481251,OH0450100,Newark,49703.0,8137.0,16.37
+OH,Euclid Police Department,41.600502,-81.52682,OH0181800,Euclid,49382.0,10066.0,20.38
+OH,Dublin Police Department,40.101982,-83.14079,OH0250300,Dublin,48613.0,908.0,1.87
+OH,Mansfield Police Department,40.759254,-82.51401,OH0700100,Mansfield,47437.0,10425.0,21.98
+OH,Mentor Police Department,41.924116,-81.392643,OH0430600,Mentor,47369.0,2200.0,4.64
+OH,Beavercreek Police Department,39.729694,-84.068794,OH0291100,Beavercreek,46320.0,3283.0,7.09
+OH,Strongsville Police Department,41.31448,-81.83247,OH0185100,Strongsville,46187.0,2068.0,4.48
+OH,Cleveland Heights Police Department,41.51443,-81.55112,OH0181500,Cleveland Heights,45267.0,7287.0,16.1
+OH,Huber Heights Police Department,39.862236,-84.12629,OH0571400,Huber Heights,42650.0,3348.0,7.85
+OH,Grove City Police Department,39.969575,-83.006863,OH0250600,Grove City,41025.0,2013.0,4.91
+OK,Oklahoma City Police Department,35.468613,-97.524315,OK0550600,Oklahoma City,673183.0,98848.0,14.68
+OK,Tulsa Police Department,36.149185,-95.99595,OK0720500,Tulsa,410652.0,72724.0,17.71
+OK,Norman Police Department,35.221004,-97.44601,OK0140200,Norman,125745.0,19764.0,15.72
+OK,Broken Arrow Police Department,36.03047,-95.78848,OK0720100,Broken Arrow,112751.0,9072.0,8.05
+OK,Edmond Police Department,35.654186,-97.480965,OK0550300,Edmond,93522.0,9701.0,10.37
+OK,Lawton Police Department,34.60796,-98.39359,OK0160100,Lawton,91247.0,15871.0,17.39
+OK,Moore Police Department,35.338253,-97.486305,OK0140100,Moore,62633.0,6363.0,10.16
+OK,Midwest City Police Department,35.46556,-97.388535,OK0550400,Midwest City,58146.0,8759.0,15.06
+OK,Enid Police Department,36.378273,-97.787729,OK0240100,Enid,51129.0,7388.0,14.45
+OK,Stillwater Police Department,36.079225,-96.975255,OK0600200,Stillwater,48055.0,12733.0,26.5
+OK,Owasso Police Department,36.26722,-95.85503,OK0721000,Owasso,37559.0,2298.0,6.12
+OK,Muskogee Police Department,35.617551,-95.383911,OK0510100,Muskogee,37214.0,8644.0,23.23
+OK,Bartlesville Police Department,36.75313,-95.97683,OK0740100,Bartlesville,37074.0,5440.0,14.67
+OK,Shawnee Police Department,35.328705,-96.92376,OK0630100,Shawnee,31237.0,5478.0,17.54
+OK,Bixby Police Department,36.120318,-95.941813,OK0720600,Bixby,28091.0,1935.0,6.89
+OK,Jenks Police Department,36.120318,-95.941813,OK0720800,Jenks,25210.0,1862.0,7.39
+OK,Ardmore Police Department,34.251848,-97.287927,OK0100100,Ardmore,24829.0,4578.0,18.44
+OK,Ponca City Police Department,36.701534,-97.082504,OK0360300,Ponca City,24499.0,4206.0,17.17
+OK,Yukon Police Department,35.507072,-97.73825,OK0090200,Yukon,23697.0,2145.0,9.05
+OK,Duncan Police Department,34.50145,-97.95543,OK0690200,Duncan,22664.0,3833.0,16.91
+OK,Sapulpa Police Department,35.99901,-96.10745,OK0190300,Sapulpa,21853.0,2788.0,12.76
+OK,Del City Police Department,35.4371,-97.437035,OK0550200,Del City,21778.0,4284.0,19.67
+OK,Bethany Police Department,35.554611,-97.409401,OK0550100,Bethany,20542.0,3309.0,16.11
+OK,Sand Springs Police Department,36.120318,-95.941813,OK0720300,Sand Springs,19935.0,1929.0,9.68
+OK,Mustang Police Department,35.378815,-97.69633,OK0090500,Mustang,19847.0,1022.0,5.15
+OR,Portland Police Department,45.515236,-122.676056,OR0260200,Portland,647176.0,79615.0,12.3
+OR,Salem Police Department,44.93544,-123.04113,OR0240200,Salem,174193.0,24503.0,14.07
+OR,Eugene Police Department,44.051296,-123.08966,OR0200200,Eugene,173278.0,32760.0,18.91
+OR,Gresham Police Department,45.50593,-122.435295,OR0260100,Gresham,114164.0,17099.0,14.98
+OR,Hillsboro Police Department,45.5212,-122.973854,OR0340300,Hillsboro,105909.0,8197.0,7.74
+OR,Bend Police Department,44.055473,-121.33363,OR0090100,Bend,97042.0,9676.0,9.97
+OR,Medford Police Department,42.323277,-122.87611,OR0150400,Medford,84894.0,12238.0,14.42
+OR,Springfield Police Department,43.928305,-122.897659,OR0200600,Springfield,62138.0,9855.0,15.86
+OR,Corvallis Police Department,44.493882,-123.424664,OR0020100,Corvallis,59407.0,13795.0,23.22
+OR,Albany Police Department,44.629757,-123.09799,OR0220100,Albany,55776.0,5994.0,10.75
+OR,Tigard Police Department,45.4259,-122.765755,OR0340400,Tigard,54750.0,3659.0,6.68
+OR,Lake Oswego Police Department,45.160493,-122.195127,OR0030400,Lake Oswego,40390.0,1693.0,4.19
+OR,Keizer Police Department,44.900898,-122.57626,OR0241700,Keizer,39119.0,4018.0,10.27
+OR,Grants Pass Police Department,42.44356,-123.32451,OR0170100,Grants Pass,38902.0,6225.0,16.0
+OR,Oregon City Police Department,45.160493,-122.195127,OR0030700,Oregon City,37160.0,2180.0,5.87
+OR,McMinnville Police Department,45.20876,-123.19911,OR0360100,McMinnville,34224.0,5825.0,17.02
+OR,Redmond Police Department,43.915118,-121.225575,OR0090200,Redmond,33160.0,2561.0,7.72
+OR,Tualatin Police Department,45.386482,-122.76633,OR0341200,Tualatin,27821.0,2811.0,10.1
+OR,West Linn Police Department,45.361465,-122.60955,OR0030900,West Linn,27173.0,1263.0,4.65
+OR,Woodburn Police Department,45.142204,-122.85922,OR0240500,Woodburn,25877.0,3698.0,14.29
+OR,Forest Grove Police Department,45.553542,-123.097615,OR0340200,Forest Grove,25767.0,2571.0,9.98
+OR,Roseburg Police Department,43.21138,-123.3444,OR0100500,Roseburg,23551.0,3953.0,16.78
+OR,Klamath Falls Police Department,42.683761,-121.646168,OR0180100,Klamath Falls,21710.0,4866.0,22.41
+OR,Ashland Police Department,42.194,-122.69845,OR0150100,Ashland,21348.0,3332.0,15.61
+OR,Milwaukie Police Department,45.446583,-122.62958,OR0030500,Milwaukie,21108.0,1902.0,9.01
+PA,Allentown Police Department,40.610153,-75.44659,PA0390100,Allentown,125250.0,27947.0,22.31
+PA,Erie Police Department,42.128925,-80.08493,PA0250200,Erie,95536.0,22288.0,23.33
+PA,Reading Police Department,40.33688,-75.92126,PA0061400,Reading,94161.0,26912.0,28.58
+PA,Scranton Police Department,41.374607,-75.70051,PA0350400,Scranton,75987.0,14209.0,18.7
+PA,Bethlehem Police Department,40.625484,-75.33419,PA0480300,Bethlehem,75599.0,11729.0,15.51
+PA,Lancaster Police Department,40.041264,-76.30506,PA0360500,Lancaster,58034.0,10482.0,18.06
+PA,Harrisburg Police Department,40.260048,-76.83105,PA0220200,Harrisburg,49969.0,13902.0,27.82
+PA,Altoona Police Department,40.513184,-78.40563,PA0070100,Altoona,44114.0,8748.0,19.83
+PA,Wilkes-Barre Police Department,41.272366,-75.91723,PA0401300,Wilkes-Barre,44086.0,8297.0,18.82
+PA,State College Police Department,40.79319,-77.85999,PA0140300,State College,40352.0,12300.0,30.48
+PA,Norristown Police Department,40.114376,-75.33891,PA0461900,Norristown,35607.0,6020.0,16.91
+PA,Chester Police Department,39.85153,-75.35874,PA0230400,Chester,32819.0,8503.0,25.91
+PA,Hazleton Police Department,41.172787,-75.976035,PA0400700,Hazleton,29339.0,6808.0,23.2
+PA,Monroeville Police Department,40.46892,-79.98092,PA0021600,Monroeville,28607.0,2398.0,8.38
+PA,Easton Police Department,40.66601,-75.235176,PA0480400,Easton,27860.0,4285.0,15.38
+PA,Plum Police Department,40.504036,-79.7621,PA0028500,Plum,27123.0,963.0,3.55
+PA,Lebanon Police Department,40.367344,-76.458009,PA0380200,Lebanon,26611.0,6667.0,25.05
+PA,Pottstown Police Department,40.209999,-75.370201,PA0462200,Pottstown,23282.0,3547.0,15.23
+PA,Chambersburg Police Department,39.935287,-77.65959,PA0280100,Chambersburg,22141.0,2892.0,13.06
+PA,New Castle Police Department,41.002735,-80.347244,PA0370200,New Castle,21992.0,5571.0,25.33
+PA,Baldwin Borough Police Department,40.38374,-79.95641,PA0020100,Baldwin Borough,21274.0,1565.0,7.36
+PA,Murrysville Police Department,40.45808,-79.6645,PA0650100,Murrysville,20810.0,696.0,3.34
+PA,Carlisle Police Department,40.20692,-77.19422,PA0210200,Carlisle,19869.0,2687.0,13.52
+PA,West Mifflin Police Department,40.384403,-79.87857,PA0024700,West Mifflin,19638.0,2705.0,13.77
+PA,Johnstown Police Department,40.32745,-78.91878,PA0110400,Johnstown,18647.0,6272.0,33.64
+RI,Warwick Police Department,41.701786,-71.45817,RI0020300,Warwick,82666.0,5870.0,7.1
+RI,Cranston Police Department,41.802887,-71.44183,RI0040200,Cranston,82654.0,6226.0,7.53
+RI,Pawtucket Police Department,41.879257,-71.38248,RI0040800,Pawtucket,75200.0,11076.0,14.73
+RI,Providence Police Department,41.869765,-71.578626,RI0040900,Providence,47171.0,5058.0,10.72
+RI,East Providence Police Department,41.81337,-71.35126,RI0040400,East Providence,47171.0,5058.0,10.72
+RI,Woonsocket Police Department,41.869765,-71.578626,RI0041200,Woonsocket,43044.0,7906.0,18.37
+RI,Newport Police Department,41.492676,-71.31076,RI0030300,Newport,25322.0,3387.0,13.38
+RI,Central Falls Police Department,41.88832,-71.39278,RI0040100,Central Falls,22192.0,5372.0,24.21
+RI,Westerly Police Department,41.345066,-71.81429,RI0050400,Westerly,18241.0,987.0,5.41
+RI,Cumberland Police Department,41.929527,-71.4016,RI0040300,Cumberland,8925.0,700.0,7.84
+RI,Tiverton Police Department,41.64079,-71.185715,RI0030500,Tiverton,8240.0,568.0,6.89
+RI,Narragansett Police Department,41.401162,-71.617612,RI0050100,Narragansett,3265.0,597.0,18.28
+RI,Charlestown Police Department,41.37421,-71.66645,RI0050700,Charlestown,1482.0,75.0,5.06
+RI,Hopkinton Police Department,41.460197,-71.76621,RI0050600,Hopkinton,688.0,15.0,2.18
+RI,Foster Police Department,41.782475,-71.72149,RI0041300,Foster,276.0,58.0,21.01
+SC,Charleston Police Department,32.787556,-79.95888,SC0100100,Charleston,147928.0,17092.0,11.55
+SC,Columbia Police Department,34.00228,-81.040215,SC0400100,Columbia,137276.0,26890.0,19.59
+SC,North Charleston Police Department,32.87881,-80.01314,SC0100800,North Charleston,114542.0,19720.0,17.22
+SC,Mount Pleasant Police Department,32.8015,-79.89017,SC0100300,Mount Pleasant,88900.0,5001.0,5.63
+SC,Rock Hill Police Department,34.924366,-81.02726,SC0460300,Rock Hill,72883.0,9413.0,12.92
+SC,Greenville Police Department,34.852623,-82.38797,SC0230200,Greenville,69725.0,9123.0,13.08
+SC,Summerville Police Department,33.024467,-80.176,SC0180200,Summerville,50318.0,5211.0,10.36
+SC,Goose Creek Police Department,33.2077,-79.953655,SC0080300,Goose Creek,44502.0,3539.0,7.95
+SC,Florence Police Department,34.199226,-79.76832,SC0210100,Florence,39816.0,7139.0,17.93
+SC,Spartanburg Police Department,34.933239,-81.991053,SC0420100,Spartanburg,37990.0,8619.0,22.69
+SC,Greer Police Department,34.961967,-82.20906,SC0230300,Greer,35151.0,3558.0,10.12
+SC,Myrtle Beach Police Department,33.697033,-78.88194,SC0260600,Myrtle Beach,35116.0,6778.0,19.3
+SC,Aiken Police Department,33.550013,-81.632983,SC0020100,Aiken,31516.0,4355.0,13.82
+SC,Anderson Police Department,34.501434,-82.64977,SC0040100,Anderson,28796.0,5760.0,20.0
+SC,Bluffton Police Department,32.358147,-80.68932,SC0070200,Bluffton,27596.0,1528.0,5.54
+SC,Mauldin Police Department,34.892645,-82.372077,SC0230400,Mauldin,24735.0,1572.0,6.36
+SC,Fort Mill Police Department,34.97019,-81.183188,SC0460200,Fort Mill,24069.0,871.0,3.62
+SC,North Augusta Police Department,33.550013,-81.632983,SC0020300,North Augusta,24013.0,1818.0,7.57
+SC,Simpsonville Police Department,34.73548,-82.26074,SC0230500,Simpsonville,23190.0,1314.0,5.67
+SC,Lexington Police Department,33.892556,-81.272851,SC0320400,Lexington,23068.0,1820.0,7.89
+SC,Easley Police Department,34.88538,-82.723376,SC0390300,Easley,22643.0,2631.0,11.62
+SC,Greenwood Police Department,34.155796,-82.127876,SC0240100,Greenwood,22363.0,5148.0,23.02
+SC,Conway Police Department,33.909269,-78.976675,SC0260200,Conway,22001.0,3291.0,14.96
+SC,Hanahan Police Department,32.903206,-80.0083,SC0080600,Hanahan,20381.0,2471.0,12.12
+SC,North Myrtle Beach Police Department,33.909269,-78.976675,SC0260700,North Myrtle Beach,18502.0,1431.0,7.73
+SD,Sioux Falls Police Department,43.553837,-96.73019,SD0490200,Sioux Falls,189258.0,17432.0,9.21
+SD,Rapid City Police Department,44.078087,-103.22213,SD0510100,Rapid City,73942.0,10175.0,13.76
+SD,Brookings Police Department,44.308067,-96.80033,SD0050100,Brookings,23432.0,3056.0,13.04
+SD,Watertown Police Department,44.89872,-97.113434,SD0140100,Watertown,22577.0,2941.0,13.03
+SD,Mitchell Police Department,43.709465,-98.02698,SD0170100,Mitchell,15677.0,2424.0,15.46
+SD,Yankton Police Department,43.006607,-97.388339,SD0660100,Yankton,15332.0,1503.0,9.8
+SD,Huron Police Department,44.418265,-98.279422,SD0020100,Huron,14060.0,2005.0,14.26
+SD,Box Elder Police Department,44.002349,-102.823801,SD0510300,Box Elder,11527.0,798.0,6.92
+SD,Vermillion Police Department,42.779583,-96.93651,SD0130100,Vermillion,11506.0,2316.0,20.13
+SD,Brandon Police Department,43.667472,-96.795726,SD0490300,Brandon,10745.0,224.0,2.08
+SD,Sturgis Police Department,44.414597,-103.5156,SD0460100,Sturgis,7088.0,456.0,6.43
+SD,Belle Fourche Police Department,44.666737,-103.84928,SD0090100,Belle Fourche,5561.0,559.0,10.05
+SD,Tea Police Department,43.27942,-96.722286,SD0410500,Tea,5535.0,162.0,2.93
+SD,Milbank Police Department,45.172637,-96.772261,SD0250100,Milbank,3488.0,227.0,6.51
+SD,Hot Springs Police Department,43.431904,-103.477066,SD0230200,Hot Springs,3407.0,679.0,19.93
+SD,Mobridge Police Department,45.533497,-100.43243,SD0640100,Mobridge,3215.0,597.0,18.57
+SD,Canton Police Department,43.30186,-96.589,SD0410100,Canton,3054.0,239.0,7.83
+SD,Lead Police Department,44.35102,-103.77256,SD0400200,Lead,2989.0,406.0,13.58
+SD,North Sioux City Police Department,42.831106,-96.650829,SD0630500,North Sioux City,2956.0,372.0,12.58
+SD,Winner Police Department,43.349729,-99.876219,SD0610100,Winner,2882.0,804.0,27.9
+SD,Summerset Police Department,44.60521,-102.714139,SD0460300,Summerset,2875.0,146.0,5.08
+SD,Lennox Police Department,43.27942,-96.722286,SD0410200,Lennox,2617.0,282.0,10.78
+SD,Sisseton Police Department,45.664772,-97.049675,SD0540100,Sisseton,2433.0,468.0,19.24
+SD,Pierre Police Department,44.354984,-100.30259,SD0320100,Pierre,2426.0,105.0,4.33
+SD,Chamberlain Police Department,43.72988,-99.092941,SD0070100,Chamberlain,2400.0,337.0,14.04
+TN,Memphis Police Department,35.14924,-90.047455,TNMPD0000,Memphis,634139.0,149869.0,23.63
+TN,Knoxville Police Department,35.992726,-83.937721,TN0470100,Knoxville,189339.0,38738.0,20.46
+TN,Chattanooga Police Department,35.159186,-85.202296,TN0330100,Chattanooga,180353.0,30396.0,16.85
+TN,Clarksville Police Department,36.500354,-87.380887,TN0630100,Clarksville,163518.0,21055.0,12.88
+TN,Murfreesboro Police Department,35.84415,-86.391716,TN0750100,Murfreesboro,148970.0,17554.0,11.78
+TN,Franklin Police Department,35.895096,-86.896757,TN0940100,Franklin,81531.0,4118.0,5.05
+TN,Johnson City Police Department,36.295665,-82.495037,TN0900100,Johnson City,69521.0,14207.0,20.44
+TN,Jackson Police Department,35.610466,-88.81519,TN0570100,Jackson,67753.0,15182.0,22.41
+TN,Hendersonville Police Department,36.473443,-86.459798,TN0830400,Hendersonville,60628.0,4272.0,7.05
+TN,Bartlett Police Department,35.228004,-89.80908,TN0790600,Bartlett,57639.0,2757.0,4.78
+TN,Kingsport Police Department,36.547108,-82.561806,TN0820200,Kingsport,55019.0,11250.0,20.45
+TN,Smyrna Police Department,35.843369,-86.417213,TN0750200,Smyrna,52401.0,6182.0,11.8
+TN,Collierville Police Department,35.042213,-89.667854,TN0790100,Collierville,50669.0,1435.0,2.83
+TN,Spring Hill Police Department,35.615696,-87.077763,TN0600300,Spring Hill,48403.0,1200.0,2.48
+TN,Cleveland Police Department,35.159904,-84.87444,TN0060100,Cleveland,46747.0,7793.0,16.67
+TN,Brentwood Police Department,35.895096,-86.896757,TN0940300,Brentwood,44354.0,1150.0,2.59
+TN,Gallatin Police Department,36.473443,-86.459798,TN0830100,Gallatin,43306.0,6109.0,14.11
+TN,Columbia Police Department,35.615696,-87.077763,TN0600100,Columbia,40957.0,4982.0,12.16
+TN,Germantown Police Department,35.09635,-89.80717,TN0790200,Germantown,40955.0,963.0,2.35
+TN,La Vergne Police Department,35.843369,-86.417213,TN0750300,La Vergne,38127.0,4219.0,11.07
+TN,Mount Juliet Police Department,36.148476,-86.29021,TN0950300,Mount Juliet,38059.0,2144.0,5.63
+TN,Lebanon Police Department,36.1994,-86.28494,TN0950100,Lebanon,37471.0,5210.0,13.9
+TN,Cookeville Police Department,36.140807,-85.496928,TN0710100,Cookeville,34068.0,6761.0,19.85
+TN,Maryville Police Department,35.688185,-83.922973,TN0050200,Maryville,31281.0,2483.0,7.94
+TN,Oak Ridge Police Department,36.116731,-84.195418,TN0010300,Oak Ridge,31087.0,4453.0,14.32
+TX,Houston Police Department,29.75597,-95.36702,TXHPD0000,Houston,2293288.0,440369.0,19.2
+TX,San Antonio Police Department,29.42295,-98.49757,TXSPD0000,San Antonio,1434540.0,249159.0,17.37
+TX,Dallas Police Department,32.76778,-96.7956,TXDPD0000,Dallas,1300239.0,228269.0,17.56
+TX,Austin Police Department,30.268007,-97.735275,TX2270100,Austin,944658.0,115570.0,12.23
+TX,Fort Worth Police Department,32.77204,-97.291291,TX2201200,Fort Worth,908469.0,119348.0,13.14
+TX,El Paso Police Department,31.75874,-106.48478,TX0710200,El Paso,676395.0,122719.0,18.14
+TX,Arlington Police Department,32.73912,-97.113525,TX2200100,Arlington,392304.0,54054.0,13.78
+TX,Corpus Christi Police Department,27.793016,-97.394035,TX1780200,Corpus Christi,318168.0,52633.0,16.54
+TX,Plano Police Department,33.0179,-96.70228,TX0430600,Plano,282181.0,18730.0,6.64
+TX,Lubbock Police Department,33.611469,-101.819944,TX1520200,Lubbock,255537.0,47489.0,18.58
+TX,Laredo Police Department,27.536282,-99.47004,TX2400100,Laredo,254697.0,56020.0,21.99
+TX,Irving Police Department,32.815025,-96.94995,TX0571500,Irving,254184.0,27217.0,10.71
+TX,Garland Police Department,32.908943,-96.65579,TX0571100,Garland,245075.0,31108.0,12.69
+TX,Amarillo Police Department,35.398675,-101.893804,TX1880100,Amarillo,200371.0,31257.0,15.6
+TX,Grand Prairie Police Department,32.766987,-96.778424,TX0571200,Grand Prairie,195992.0,22517.0,11.49
+TX,Frisco Police Department,33.194745,-96.579846,TX0430400,Frisco,193140.0,6742.0,3.49
+TX,McKinney Police Department,33.194745,-96.579846,TX0430500,McKinney,189394.0,12435.0,6.57
+TX,Brownsville Police Department,25.90872,-97.49824,TX0310100,Brownsville,185849.0,48908.0,26.32
+TX,Pasadena Police Department,29.690775,-95.19727,TX1011500,Pasadena,151964.0,27018.0,17.78
+TX,Killeen Police Department,31.042303,-97.481374,TX0140400,Killeen,150082.0,23476.0,15.64
+TX,McAllen Police Department,26.396384,-98.18099,TX1080800,McAllen,141941.0,29546.0,20.82
+TX,Denton Police Department,33.214447,-97.12535,TX0610200,Denton,139704.0,20663.0,14.79
+TX,Waco Police Department,31.549493,-97.201472,TX1551200,Waco,136800.0,31843.0,23.28
+TX,Carrollton Police Department,32.766987,-96.778424,TX0570400,Carrollton,131388.0,8250.0,6.28
+TX,Midland Police Department,32.002758,-102.07577,TX1650100,Midland,130765.0,13681.0,10.46
+UT,West Valley Police Department,40.694046,-111.96,UT0182500,West Valley,139361.0,14963.0,10.74
+UT,West Jordan Police Department,40.605957,-111.93876,UT0180600,West Jordan,116045.0,7444.0,6.41
+UT,Provo Police Department,40.120409,-111.668667,UT0250600,Provo,113538.0,25201.0,22.2
+UT,Orem Police Department,40.297047,-111.74691,UT0250300,Orem,96734.0,9973.0,10.31
+UT,Sandy Police Department,40.569614,-111.89574,UT0180500,Sandy,96272.0,3931.0,4.08
+UT,St. George Police Department,37.112602,-113.57904,UT0270100,St. George,92875.0,9632.0,10.37
+UT,Layton Police Department,41.06627,-111.95716,UT0060300,Layton,80858.0,5680.0,7.02
+UT,South Jordan Police Department,40.667883,-111.92424,UT0181800,South Jordan,75617.0,2105.0,2.78
+UT,Lehi Police Department,40.394375,-111.84098,UT0250200,Lehi,73911.0,3847.0,5.2
+UT,Taylorsville City Police Department,40.667883,-111.92424,UT0183900,Taylorsville City,60295.0,5409.0,8.97
+UT,Logan Police Department,41.68679,-111.82526,UT0030100,Logan,52420.0,12188.0,23.25
+UT,Murray Police Department,40.667883,-111.92424,UT0180200,Murray,50183.0,3381.0,6.74
+UT,Draper Police Department,40.525146,-111.86235,UT0181200,Draper,49978.0,2213.0,4.43
+UT,Bountiful Police Department,40.881683,-111.880646,UT0060100,Bountiful,45496.0,2273.0,5.0
+UT,Riverton Police Department,40.667883,-111.92424,UT0181700,Riverton,44773.0,1438.0,3.21
+UT,Spanish Fork Police Department,40.109997,-111.66741,UT0250700,Spanish Fork,41953.0,2508.0,5.98
+UT,Roy Police Department,41.17196,-112.02604,UT0290200,Roy,39076.0,2257.0,5.78
+UT,Pleasant Grove Police Department,40.362473,-111.739105,UT0250500,Pleasant Grove,37228.0,2246.0,6.03
+UT,Saratoga Springs Police Department,40.120409,-111.668667,UT0252200,Saratoga Springs,36977.0,1723.0,4.66
+UT,Tooele Police Department,40.536877,-112.298515,UT0230100,Tooele,35223.0,1775.0,5.04
+UT,Springville Police Department,37.20105,-113.18794,UT0250800,Springville,34750.0,2650.0,7.63
+UT,Cedar City Police Department,37.677555,-113.061646,UT0110100,Cedar City,34246.0,6409.0,18.71
+UT,Cottonwood Heights Police Department,40.667883,-111.92424,UT0184200,Cottonwood Heights,33597.0,2031.0,6.05
+UT,Kaysville Police Department,41.0332,-111.93719,UT0060600,Kaysville,32438.0,1023.0,3.15
+UT,Clearfield Police Department,41.115345,-112.02599,UT0060200,Clearfield,31802.0,3659.0,11.51
+VA,Virginia Beach Police Department,36.7545,-76.05844,VA1280000,Virginia Beach,457658.0,34987.0,7.64
+VA,Chesapeake Police Department,36.71744,-76.24797,VA1030000,Chesapeake,247172.0,19272.0,7.8
+VA,Norfolk Police Department,36.923015,-76.244641,VA1170000,Norfolk,238556.0,36988.0,15.5
+VA,Richmond Police Department,37.545868,-77.44456,VA1220000,Richmond,225676.0,42803.0,18.97
+VA,Newport News Police Department,37.02934,-76.45062,VA1160000,Newport News,185069.0,27876.0,15.06
+VA,Alexandria Police Department,38.818343,-77.082026,VA0990000,Alexandria,158185.0,15002.0,9.48
+VA,Hampton Police Department,37.04803,-76.297149,VA1110000,Hampton,136748.0,18982.0,13.88
+VA,Roanoke Police Department,37.278458,-79.958174,VA1230000,Roanoke,99578.0,18045.0,18.12
+VA,Portsmouth Police Department,36.85943,-76.356269,VA1200000,Portsmouth,97454.0,16062.0,16.48
+VA,Suffolk Police Department,36.697157,-76.634781,VA1270000,Suffolk,93268.0,8887.0,9.53
+VA,Lynchburg Police Department,37.399016,-79.195458,VA1140000,Lynchburg,78973.0,12123.0,15.35
+VA,Harrisonburg Police Department,38.450462,-78.86833,VA1120000,Harrisonburg,52062.0,11608.0,22.3
+VA,Leesburg Police Department,39.08113,-77.638857,VA0530100,Leesburg,48223.0,1732.0,3.59
+VA,Charlottesville Police Department,38.037658,-78.485381,VA1020000,Charlottesville,46597.0,10161.0,21.81
+VA,Blacksburg Police Department,37.174884,-80.387314,VA0600100,Blacksburg,44385.0,15905.0,35.83
+VA,Burkeville Police Department,37.143695,-78.052162,VA0670300,Burkeville,44191.0,783.0,1.77
+VA,Manassas Police Department,38.748627,-77.46407,VA0750100,Manassas,42596.0,2385.0,5.6
+VA,Danville Police Department,36.583334,-79.408071,VA1070000,Danville,42556.0,9497.0,22.32
+VA,Petersburg Police Department,37.20473,-77.392368,VA1190000,Petersburg,33229.0,6995.0,21.05
+VA,Fredericksburg Police Department,38.299272,-77.486658,VA1090000,Fredericksburg,28027.0,3655.0,13.04
+VA,Staunton Police Department,38.158056,-79.061501,VA1260000,Staunton,25358.0,2957.0,11.66
+VA,Salem Police Department,37.285333,-80.055241,VA0800100,Salem,25335.0,2273.0,8.97
+VA,Herndon Police Department,38.960934,-77.372475,VA0290200,Herndon,24574.0,1802.0,7.33
+VA,Fairfax City Police Department,38.85312,-77.295586,VA1075000,Fairfax City,23980.0,2331.0,9.72
+VA,Christiansburg Police Department,37.131126,-80.40731,VA0600300,Christiansburg,23174.0,2970.0,12.82
+VT,Burlington Police Department,44.48222,-73.22062,VT0040100,Burlington,44703.0,8943.0,20.01
+VT,South Burlington Police Department,44.455273,-73.13991,VT0040300,South Burlington,20042.0,1526.0,7.61
+VT,Rutland Police Department,43.605415,-72.97736,VT0110200,Rutland,15934.0,1881.0,11.8
+VT,Essex Police Department,44.493866,-73.10552,VT0040200,Essex,10473.0,798.0,7.62
+VT,Bennington Police Department,43.035325,-73.11146,VT0020100,Bennington,8772.0,968.0,11.04
+VT,Barre Police Department,44.20841,-72.513885,VT0120100,Barre,8514.0,1970.0,23.14
+VT,Winooski Police Department,44.4914,-73.187935,VT0040400,Winooski,8015.0,1631.0,20.35
+VT,Brattleboro Police Department,42.854416,-72.55899,VT0130200,Brattleboro,7346.0,1988.0,27.06
+VT,St. Albans Police Department,44.858964,-72.909402,VT0060100,St. Albans,6866.0,1103.0,16.06
+VT,Shelburne Police Department,44.463329,-73.069484,VT0040700,Shelburne,6335.0,375.0,5.92
+VT,St. Johnsbury Police Department,44.41893,-72.02098,VT0030300,St. Johnsbury,5813.0,1139.0,19.59
+VT,Northfield Police Department,44.14332,-72.65675,VT0120300,Northfield,4680.0,506.0,10.81
+VT,Newport Police Department,44.934982,-72.21176,VT0100100,Newport,4446.0,477.0,10.73
+VT,Milton Police Department,44.619205,-73.12278,VT0040600,Milton,4053.0,300.0,7.4
+VT,Bellows Falls Police Department,42.999143,-72.716335,VT0130100,Bellows Falls,2734.0,515.0,18.84
+VT,Vergennes Police Department,44.031248,-73.141581,VT0010300,Vergennes,2573.0,264.0,10.26
+VT,Fair Haven Police Department,43.594852,-73.26547,VT0110400,Fair Haven,2412.0,264.0,10.95
+VT,Swanton Police Department,44.921528,-73.11119,VT0060300,Swanton,2356.0,274.0,11.63
+VT,Windsor Police Department,43.588143,-72.591514,VT0140400,Windsor,2145.0,130.0,6.06
+VT,Randolph Police Department,44.003392,-72.369687,VT0090100,Randolph,2102.0,186.0,8.85
+VT,Bristol Police Department,44.133076,-73.07871,VT0010100,Bristol,1995.0,273.0,13.68
+VT,Brandon Police Department,43.7997,-73.08917,VT0110100,Brandon,1711.0,199.0,11.63
+VT,Castleton Police Department,43.580844,-73.038196,VT0110300,Castleton,1206.0,139.0,11.53
+VT,Chester Police Department,43.588143,-72.591514,VT0140600,Chester,1113.0,22.0,1.98
+VT,Manchester Police Department,43.178684,-73.04883,VT0020400,Manchester,1113.0,22.0,1.98
+WA,Seattle Police Department,47.493554,-121.832375,WASPD0000,Seattle,726054.0,70824.0,9.75
+WA,Spokane Police Department,47.665245,-117.42813,WA0320400,Spokane,225709.0,34367.0,15.23
+WA,Tacoma Police Department,47.051437,-122.153228,WA0270300,Tacoma,217332.0,26647.0,12.26
+WA,Vancouver Police Department,45.771674,-122.485903,WA0060300,Vancouver,188331.0,23606.0,12.53
+WA,Bellevue Police Department,47.493554,-121.832375,WA0170200,Bellevue,149365.0,10339.0,6.92
+WA,Kent Police Department,47.38059,-122.23741,WA0170700,Kent,134890.0,15081.0,11.18
+WA,Everett Police Department,47.977795,-122.20719,WA0310300,Everett,110438.0,11670.0,10.57
+WA,Spokane Valley Police Department,47.620375,-117.403371,WA0321500,Spokane Valley,102178.0,10751.0,10.52
+WA,Federal Way Police Department,47.493554,-121.832375,WA0173600,Federal Way,99792.0,11202.0,11.23
+WA,Yakima Police Department,46.456558,-120.740145,WA0390500,Yakima,96266.0,16543.0,17.18
+WA,Kirkland Police Department,47.678806,-122.20785,WA0170800,Kirkland,91656.0,6175.0,6.74
+WA,Bellingham Police Department,48.755722,-122.479614,WA0370100,Bellingham,90545.0,16946.0,18.72
+WA,Auburn Police Department,47.281998,-122.25281,WA0170100,Auburn,85306.0,8099.0,9.49
+WA,Kennewick Police Department,46.20264,-119.120224,WA0030100,Kennewick,83082.0,11498.0,13.84
+WA,Pasco Police Department,46.235126,-119.0925,WA0110200,Pasco,76398.0,11617.0,15.21
+WA,Redmond Police Department,47.493554,-121.832375,WA0171200,Redmond,72166.0,4312.0,5.98
+WA,Marysville Police Department,48.061275,-122.174385,WA0310500,Marysville,69957.0,4223.0,6.04
+WA,Sammamish Police Department,47.60465,-122.035515,WA0175000,Sammamish,66532.0,2047.0,3.08
+WA,Lakewood Police Department,47.172527,-122.50711,WA0272300,Lakewood,62972.0,8455.0,13.43
+WA,Richland Police Department,46.278522,-119.27373,WA0030200,Richland,59718.0,4798.0,8.03
+WA,Shoreline Police Department,47.493554,-121.832375,WA0174300,Shoreline,58213.0,4815.0,8.27
+WA,Olympia Police Department,47.04081,-122.89205,WA0340100,Olympia,54579.0,7464.0,13.68
+WA,Lacey Police Department,46.932598,-122.829441,WA0340400,Lacey,52572.0,4928.0,9.37
+WA,Burien Police Department,47.602222,-122.33089,WA0174100,Burien,51646.0,5990.0,11.6
+WA,Bothell Police Department,47.7614,-122.20562,WA0170300,Bothell,47355.0,2109.0,4.45
+WI,Milwaukee Police Department,43.04385,-87.90265,WIMPD0000,Milwaukee,578198.0,135694.0,23.47
+WI,Madison Police Department,43.072285,-89.38322,WI0130100,Madison,265447.0,42196.0,15.9
+WI,Green Bay Police Department,44.511395,-88.01636,WI0050200,Green Bay,107083.0,16003.0,14.94
+WI,Kenosha Police Department,42.579703,-87.424898,WI0300100,Kenosha,99605.0,14250.0,14.31
+WI,Racine Police Department,42.72528,-87.789406,WI0520200,Racine,77705.0,15040.0,19.36
+WI,Appleton Police Department,44.260445,-88.41205,WI0450100,Appleton,74752.0,6923.0,9.26
+WI,Waukesha Police Department,43.028793,-88.24285,WI0680500,Waukesha,71307.0,7301.0,10.24
+WI,Eau Claire Police Department,44.726355,-91.286414,WI0180100,Eau Claire,69030.0,10114.0,14.65
+WI,Oshkosh Police Department,44.085707,-88.668149,WI0710300,Oshkosh,66694.0,9816.0,14.72
+WI,Janesville Police Department,42.669931,-89.075119,WI0540200,Janesville,65506.0,5806.0,8.86
+WI,West Allis Police Department,43.017652,-87.481549,WI0411600,West Allis,60220.0,6154.0,10.22
+WI,La Crosse Police Department,43.908222,-91.111758,WI0320100,La Crosse,52505.0,10623.0,20.23
+WI,Sheboygan Police Department,43.746002,-87.730546,WI0600200,Sheboygan,49849.0,5377.0,10.79
+WI,Wauwatosa Police Department,43.05288,-88.05745,WI0411500,Wauwatosa,48072.0,2875.0,5.98
+WI,Fond du Lac Police Department,43.775253,-88.44703,WI0200100,Fond du Lac,44412.0,4879.0,10.99
+WI,Brookfield Police Department,43.05865,-88.12605,WI0680100,Brookfield,41020.0,1280.0,3.12
+WI,New Berlin Police Department,43.019308,-88.306707,WI0680400,New Berlin,40289.0,1550.0,3.85
+WI,Wausau Police Department,44.898036,-89.757823,WI0370300,Wausau,39745.0,4841.0,12.18
+WI,Menomonee Falls Police Department,43.019308,-88.306707,WI0680300,Menomonee Falls,38219.0,1346.0,3.52
+WI,Greenfield Police Department,42.95941,-87.98092,WI0410800,Greenfield,37623.0,3175.0,8.44
+WI,Franklin Police Department,42.894115,-88.03276,WI0410500,Franklin,36685.0,1695.0,4.62
+WI,Beloit Police Department,42.49649,-89.03653,WI0540100,Beloit,36567.0,6188.0,16.92
+WI,Oak Creek Police Department,42.871998,-87.9091,WI0411000,Oak Creek,36266.0,1769.0,4.88
+WI,Sun Prairie Police Department,43.183002,-89.21107,WI0130600,Sun Prairie,35528.0,1981.0,5.58
+WI,Manitowoc Police Department,44.089737,-87.65937,WI0360100,Manitowoc,34267.0,4739.0,13.83
+WV,Charleston Police Department,38.328061,-81.523522,WV0200200,Charleston,49055.0,8312.0,16.94
+WV,Huntington Police Department,38.419578,-82.243397,WV0060200,Huntington,46923.0,13302.0,28.35
+WV,Parkersburg Police Department,39.211679,-81.515928,WV0540100,Parkersburg,29910.0,6427.0,21.49
+WV,Morgantown Police Department,39.633645,-80.059074,WV0310100,Morgantown,29316.0,8410.0,28.69
+WV,Wheeling Police Department,40.064915,-80.720924,WV0350100,Wheeling,27142.0,4282.0,15.78
+WV,Weirton Police Department,40.4022,-80.58772,WV0150200,Weirton,19150.0,2535.0,13.24
+WV,Martinsburg Police Department,39.459187,-77.963066,WV0020100,Martinsburg,18502.0,4433.0,23.96
+WV,Fairmont Police Department,39.4868,-80.14081,WV0250100,Fairmont,18369.0,3474.0,18.91
+WV,Beckley Police Department,37.779095,-81.18071,WV0410100,Beckley,17261.0,3787.0,21.94
+WV,Clarksburg Police Department,39.27901,-80.338196,WV0170200,Clarksburg,16085.0,3832.0,23.82
+WV,South Charleston Police Department,38.365562,-81.69602,WV0200600,South Charleston,13595.0,2478.0,18.23
+WV,St. Albans Police Department,38.38691,-81.83757,WV0200500,St. Albans,10842.0,1619.0,14.93
+WV,Vienna Police Department,39.211679,-81.515928,WV0540200,Vienna,10676.0,1112.0,10.42
+WV,Bluefield Police Department,37.403448,-81.106456,WV0280200,Bluefield,9699.0,1920.0,19.8
+WV,Bridgeport Police Department,39.280823,-80.25987,WV0170100,Bridgeport,9165.0,398.0,4.34
+WV,Oak Hill Police Department,38.030933,-81.086051,WV0100500,Oak Hill,8228.0,1588.0,19.3
+WV,Moundsville Police Department,39.919407,-80.74409,WV0260500,Moundsville,8195.0,1709.0,20.85
+WV,Dunbar Police Department,38.328061,-81.523522,WV0200300,Dunbar,7500.0,862.0,11.49
+WV,Elkins Police Department,38.926384,-79.84951,WV0420100,Elkins,6980.0,1242.0,17.79
+WV,Hurricane Police Department,38.510513,-81.906109,WV0400100,Hurricane,6901.0,522.0,7.56
+WV,Nitro Police Department,38.328061,-81.523522,WV0200400,Nitro,6630.0,1127.0,17.0
+WV,Charles Town Police Department,39.307398,-77.86322,WV0190100,Charles Town,6373.0,596.0,9.35
+WV,Ranson Police Department,39.307398,-77.86322,WV0190300,Ranson,5404.0,950.0,17.58
+WV,Buckhannon Police Department,38.993168,-80.23367,WV0490100,Buckhannon,5343.0,846.0,15.83
+WV,New Martinsville Police Department,39.63997,-80.86585,WV0520200,New Martinsville,5208.0,906.0,17.4
+WY,Cheyenne Police Department,41.136475,-104.81774,WY0110100,Cheyenne,64610.0,5569.0,8.62
+WY,Casper Police Department,42.849266,-106.32659,WY0130100,Casper,58547.0,6248.0,10.67
+WY,Gillette Police Department,44.192361,-105.516978,WY0030100,Gillette,33047.0,3268.0,9.89
+WY,Sheridan Police Department,44.814903,-106.95595,WY0170100,Sheridan,18660.0,1946.0,10.43
+WY,Green River Police Department,41.529675,-109.46611,WY0190100,Green River,11887.0,632.0,5.32
+WY,Evanston Police Department,41.269447,-110.96667,WY0210100,Evanston,11802.0,1099.0,9.31
+WY,Jackson Police Department,44.049325,-110.58812,WY0200100,Jackson,10728.0,633.0,5.9
+WY,Riverton Police Department,43.03264,-108.38061,WY0070200,Riverton,10619.0,1371.0,12.91
+WY,Cody Police Department,44.492387,-109.593597,WY0150100,Cody,10055.0,892.0,8.87
+WY,Rawlins Police Department,41.70359,-106.933153,WY0040100,Rawlins,8382.0,1153.0,13.76
+WY,Lander Police Department,43.055303,-108.605531,WY0070100,Lander,7551.0,639.0,8.46
+WY,Powell Police Department,44.754875,-108.7561,WY0150200,Powell,6385.0,742.0,11.62
+WY,Douglas Police Department,42.972839,-105.507367,WY0050100,Douglas,6330.0,708.0,11.18
+WY,Torrington Police Department,42.066048,-104.17981,WY0080100,Torrington,6196.0,541.0,8.73
+WY,Worland Police Department,44.01688,-107.95574,WY0220100,Worland,4843.0,329.0,6.79
+WY,Buffalo Police Department,44.044048,-106.588541,WY0100100,Buffalo,4389.0,777.0,17.7
+WY,Mills Police Department,42.97364,-106.764877,WY0130200,Mills,4106.0,532.0,12.96
+WY,Wheatland Police Department,42.053413,-104.95379,WY0160100,Wheatland,3567.0,274.0,7.68
+WY,Newcastle Police Department,43.85474,-104.20272,WY0230100,Newcastle,3283.0,272.0,8.29
+WY,Glenrock Police Department,42.972839,-105.507367,WY0050200,Glenrock,2914.0,213.0,7.31
+WY,Evansville Police Department,42.97364,-106.764877,WY0130400,Evansville,2730.0,185.0,6.78
+WY,Kemmerer Police Department,41.813946,-110.53512,WY0120200,Kemmerer,2632.0,304.0,11.55
+WY,Rock Springs Police Department,41.660339,-108.875676,WY0190200,Rock Springs,2497.0,408.0,16.34
+WY,Greybull Police Department,44.525654,-107.99332,WY0020300,Greybull,2187.0,176.0,8.05
+WY,Lovell Police Department,44.836075,-108.38599,WY0020200,Lovell,2176.0,324.0,14.89

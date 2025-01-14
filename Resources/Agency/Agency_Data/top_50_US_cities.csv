@@ -1,0 +1,51 @@
+State,Agency Name,Latitude,Longitude,ORI,City,Population,Poverty,Poverty Rate
+IL,Chicago Police Department,41.830837,-87.62327,ILCPD0000,Chicago,2742119.0,459412.0,16.75
+TX,Houston Police Department,29.75597,-95.36702,TXHPD0000,Houston,2293288.0,440369.0,19.2
+AZ,Phoenix Police Department,33.44825,-112.0817,AZ0072300,Phoenix,1591119.0,241238.0,15.16
+TX,San Antonio Police Department,29.42295,-98.49757,TXSPD0000,San Antonio,1434540.0,249159.0,17.37
+TX,Dallas Police Department,32.76778,-96.7956,TXDPD0000,Dallas,1300239.0,228269.0,17.56
+CA,San Jose Police Department,37.220777,-121.690622,CA0431300,San Jose,1013337.0,77013.0,7.6
+TX,Austin Police Department,30.268007,-97.735275,TX2270100,Austin,944658.0,115570.0,12.23
+TX,Fort Worth Police Department,32.77204,-97.291291,TX2201200,Fort Worth,908469.0,119348.0,13.14
+OH,Columbus Police Department,39.9643,-83.0046,OHCOP0000,Columbus,898143.0,160570.0,17.88
+IN,Indianapolis Police Department,39.76786,-86.15264,INIPD0000,Indianapolis,880104.0,141489.0,16.08
+CA,San Francisco Police Department,37.775047,-122.40381,CA0380100,San Francisco,865933.0,87874.0,10.15
+WA,Seattle Police Department,47.493554,-121.832375,WASPD0000,Seattle,726054.0,70824.0,9.75
+CO,Denver Police Department,39.737377,-104.99167,CODPD0000,Denver,706799.0,80620.0,11.41
+TX,El Paso Police Department,31.75874,-106.48478,TX0710200,El Paso,676395.0,122719.0,18.14
+OK,Oklahoma City Police Department,35.468613,-97.524315,OK0550600,Oklahoma City,673183.0,98848.0,14.68
+MA,Boston Police Department,42.33196,-71.020173,MA0130100,Boston,672814.0,110995.0,16.5
+OR,Portland Police Department,45.515236,-122.676056,OR0260200,Portland,647176.0,79615.0,12.3
+MI,Detroit Police Department,42.33564,-83.04305,MI8234900,Detroit,645658.0,202311.0,31.33
+TN,Memphis Police Department,35.14924,-90.047455,TNMPD0000,Memphis,634139.0,149869.0,23.63
+MD,Baltimore City Sheriff's Office,39.23499,-76.61133,MD0040600,Baltimore City Sheriff's Office,592211.0,115748.0,19.55
+MD,Baltimore Police Department,39.32253,-76.62148,MDBPD0000,Baltimore,592211.0,115748.0,19.55
+WI,Milwaukee Police Department,43.04385,-87.90265,WIMPD0000,Milwaukee,578198.0,135694.0,23.47
+NM,Albuquerque Police Department,35.089184,-106.65081,NM0010100,Albuquerque,562336.0,90345.0,16.07
+CA,Fresno Police Department,36.761006,-119.655019,CA0100500,Fresno,538678.0,121232.0,22.51
+CA,Sacramento Police Department,38.520615,-121.49856,CA0340400,Sacramento,518605.0,75670.0,14.59
+MO,North Kansas City Police Department,39.143047,-94.57261,MO0240700,North Kansas City,502597.0,74087.0,14.74
+MO,Kansas City Police Department,39.100594,-94.57735,MOKPD0000,Kansas City,502597.0,74087.0,14.74
+GA,Atlanta Police Department,33.74819,-84.39517,GAAPD0000,Atlanta,492204.0,84756.0,17.22
+NE,Omaha Police Department,41.297091,-96.154066,NB0280200,Omaha,488059.0,57642.0,11.81
+CA,Long Beach Police Department,34.196398,-118.261862,CA0194100,Long Beach,466565.0,70975.0,15.21
+NC,Raleigh Police Department,35.789846,-78.650624,NC0920100,Raleigh,462219.0,53762.0,11.63
+VA,Virginia Beach Police Department,36.7545,-76.05844,VA1280000,Virginia Beach,457658.0,34987.0,7.64
+FL,Miami Police Department,25.7779,-80.197876,FL0130600,Miami,440807.0,90654.0,20.57
+CA,Oakland Police Department,37.79965,-122.27459,CA0010900,Oakland,437548.0,58518.0,13.37
+MN,Minneapolis Police Department,44.987347,-93.249756,MN0271100,Minneapolis,425091.0,69868.0,16.44
+OK,Tulsa Police Department,36.149185,-95.99595,OK0720500,Tulsa,410652.0,72724.0,17.71
+KS,Wichita Police Department,37.692635,-97.33823,KS0870300,Wichita,394574.0,59249.0,15.02
+TX,Arlington Police Department,32.73912,-97.113525,TX2200100,Arlington,392304.0,54054.0,13.78
+LA,New Orleans Police Department,29.960224,-90.09213,LANPD0000,New Orleans,383974.0,88675.0,23.09
+CO,Aurora Police Department,39.70955,-104.81493,CO0010100,Aurora,383496.0,38837.0,10.13
+FL,Tampa Police Department,27.947796,-82.45798,FL0290200,Tampa,380476.0,63481.0,16.68
+OH,Cleveland Police Department,41.53992,-81.62757,OHCLP0000,Cleveland,374861.0,114442.0,30.53
+CA,Anaheim Police Department,33.675687,-117.777207,CA0300100,Anaheim,348204.0,44908.0,12.9
+KY,Lexington Police Department,38.045673,-84.496284,KY0340200,Lexington,321354.0,48501.0,15.09
+TX,Corpus Christi Police Department,27.793016,-97.394035,TX1780200,Corpus Christi,318168.0,52633.0,16.54
+CA,Stockton Police Department,37.935034,-121.272237,CA0390500,Stockton,317818.0,50877.0,16.01
+CA,Santa Ana Police Department,33.675687,-117.777207,CA0301900,Santa Ana,313818.0,37979.0,12.1
+NV,Henderson Police Department,36.03084,-114.98376,NV0020300,Henderson,311250.0,23697.0,7.61
+OH,Cincinnati Police Department,39.103947,-84.518715,OHCIP0000,Cincinnati,308664.0,73391.0,23.78
+FL,Orlando Police Department,28.514435,-81.323295,FL0480400,Orlando,302968.0,46493.0,15.35
